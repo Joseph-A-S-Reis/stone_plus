@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/travertine_side",
+    "up": "stone_plus:block/travertine_top",
+    "north": "stone_plus:block/cut_travertine",
+    "east": "stone_plus:block/cut_travertine",
+    "south": "stone_plus:block/cut_travertine",
+    "west": "stone_plus:block/cut_travertine",
+    "particle": "stone_plus:block/travertine_side"
+  },
+  "render_type": "solid"
+}

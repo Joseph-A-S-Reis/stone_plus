@@ -40,7 +40,7 @@
     "specialInformation": {
       "fixedValue": []
     },
-    "hardness": 2.7,
+    "hardness": 1.5,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
@@ -48,7 +48,11 @@
     "maxStackSize": 64,
     "rarity": "COMMON",
     "immuneToFire": false,
-    "creativeTabs": [],
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:StonePlusTab"
+      }
+    ],
     "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
@@ -129,7 +133,11 @@
     "fluidRestrictions": [],
     "generateFeature": false,
     "restrictionBiomes": [],
-    "blocksToReplace": [],
+    "blocksToReplace": [
+      {
+        "value": "TAG:stone_ore_replaceables"
+      }
+    ],
     "generationShape": "UNIFORM",
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,

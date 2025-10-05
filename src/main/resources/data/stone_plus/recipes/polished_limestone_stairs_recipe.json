@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_plus",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "stone_plus:polished_limestone"
+    }
+  },
+  "result": {
+    "item": "stone_plus:polished_limestone_stairs",
+    "count": 6
+  }
+}

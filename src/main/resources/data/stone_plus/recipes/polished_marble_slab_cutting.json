@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "stone_plus",
+  "count": 2,
+  "ingredient": {
+    "item": "stone_plus:polished_marble"
+  },
+  "result": "stone_plus:polished_marble_slab"
+}

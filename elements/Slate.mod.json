@@ -40,7 +40,7 @@
     "specialInformation": {
       "fixedValue": []
     },
-    "hardness": 2.5,
+    "hardness": 1.5,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
@@ -48,7 +48,11 @@
     "maxStackSize": 64,
     "rarity": "COMMON",
     "immuneToFire": false,
-    "creativeTabs": [],
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:StonePlusTab"
+      }
+    ],
     "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
@@ -85,7 +89,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "STONE"
     },
     "breakSound": {
       "value": ""
@@ -128,19 +132,20 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "generateFeature": true,
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "#minecraft:is_mountain"
+      }
+    ],
     "blocksToReplace": [
       {
-        "value": "Blocks.DEEPSLATE"
-      },
-      {
-        "value": "Blocks.STONE"
+        "value": "TAG:stone_plus:stone"
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 10,
-    "frequencyOnChunk": 10,
-    "minGenerateHeight": -10,
-    "maxGenerateHeight": 10
+    "frequencyPerChunks": 15,
+    "frequencyOnChunk": 15,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 60
   }
 }

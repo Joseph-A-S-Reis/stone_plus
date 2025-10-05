@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "stone_plus:polished_greenstone_stairs",
+    "stone_plus:cut_travertine_stairs",
+    "stone_plus:polished_marble_stairs",
+    "stone_plus:polished_basanite_stairs",
+    "stone_plus:polished_quartzite_stairs",
+    "stone_plus:polished_scoria_stairs",
+    "stone_plus:polished_limestone_stairs"
+  ]
+}

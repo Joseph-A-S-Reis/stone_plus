@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stone_plus:cut_travertine"
+    },
+    {
+      "item": "stone_plus:cut_travertine"
+    },
+    {
+      "item": "stone_plus:cut_travertine"
+    }
+  ],
+  "result": {
+    "item": "stone_plus:cut_travertine_slab",
+    "count": 6
+  }
+}

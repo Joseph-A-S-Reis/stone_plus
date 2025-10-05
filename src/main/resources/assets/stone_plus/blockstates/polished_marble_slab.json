@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stone_plus:block/polished_marble_slab"
+    },
+    "type=top": {
+      "model": "stone_plus:block/polished_marble_slab_top"
+    },
+    "type=double": {
+      "model": "stone_plus:block/polished_marble_slab_full"
+    }
+  }
+}

@@ -10,7 +10,7 @@ import net.minecraft.core.BlockPos;
 
 public class SlateBlock extends Block {
 	public SlateBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.GRAVEL).strength(2.5f, 6f).requiresCorrectToolForDrops().instrument(NoteBlockInstrument.BASEDRUM));
+		super(BlockBehaviour.Properties.of().sound(SoundType.STONE).strength(1.5f, 6f).requiresCorrectToolForDrops().instrument(NoteBlockInstrument.BASEDRUM));
 	}
 
 	@Override

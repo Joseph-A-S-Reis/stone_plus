@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/polished_greenstone",
+    "up": "stone_plus:block/polished_greenstone",
+    "north": "stone_plus:block/polished_greenstone",
+    "east": "stone_plus:block/polished_greenstone",
+    "south": "stone_plus:block/polished_greenstone",
+    "west": "stone_plus:block/polished_greenstone",
+    "particle": "stone_plus:block/polished_greenstone"
+  },
+  "render_type": "solid"
+}

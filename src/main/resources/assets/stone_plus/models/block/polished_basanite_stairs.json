@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "stone_plus:block/polished_basanite",
+    "bottom": "stone_plus:block/polished_basanite",
+    "top": "stone_plus:block/polished_basanite",
+    "side": "stone_plus:block/polished_basanite"
+  },
+  "render_type": "solid"
+}

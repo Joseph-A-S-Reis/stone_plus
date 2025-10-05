@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "stone_plus:polished_greenstone_slab",
+    "stone_plus:polished_limestone_slab",
+    "stone_plus:polished_marble_slab",
+    "stone_plus:cut_travertine_slab",
+    "stone_plus:polished_basanite_slab",
+    "stone_plus:polished_scoria_slab",
+    "stone_plus:polished_quartzite_slab"
+  ]
+}

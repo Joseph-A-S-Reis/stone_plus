@@ -17,6 +17,7 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import jr.stoneplus.mod.init.StonePlusModTabs;
 import jr.stoneplus.mod.init.StonePlusModItems;
 import jr.stoneplus.mod.init.StonePlusModBlocks;
 
@@ -43,6 +44,8 @@ public class StonePlusMod {
 		StonePlusModBlocks.REGISTRY.register(bus);
 
 		StonePlusModItems.REGISTRY.register(bus);
+
+		StonePlusModTabs.REGISTRY.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init

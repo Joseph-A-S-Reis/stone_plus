@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "stone_plus:block/polished_limestone",
+    "bottom": "stone_plus:block/polished_limestone",
+    "top": "stone_plus:block/polished_limestone",
+    "side": "stone_plus:block/polished_limestone"
+  },
+  "render_type": "solid"
+}

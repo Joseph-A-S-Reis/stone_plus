@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "stone_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:CobbledShale"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.2,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:CobbledShale"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Shale"
+    },
+    "name": "shale_blasting",
+    "namespace": "mod"
+  }
+}

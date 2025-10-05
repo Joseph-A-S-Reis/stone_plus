@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "stone_plus:polished_quartzite_wall",
+    "stone_plus:polished_basanite_wall",
+    "stone_plus:polished_limestone_wall",
+    "stone_plus:polished_marble_wall",
+    "stone_plus:cut_travertine_wall",
+    "stone_plus:polished_scoria_wall",
+    "stone_plus:polished_greenstone_wall"
+  ]
+}

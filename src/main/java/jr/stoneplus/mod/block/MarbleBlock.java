@@ -10,7 +10,7 @@ import net.minecraft.core.BlockPos;
 
 public class MarbleBlock extends Block {
 	public MarbleBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.STONE).strength(1.8f, 7f).requiresCorrectToolForDrops().instrument(NoteBlockInstrument.BASEDRUM));
+		super(BlockBehaviour.Properties.of().sound(SoundType.STONE).strength(1.6f, 5f).requiresCorrectToolForDrops().instrument(NoteBlockInstrument.BASEDRUM));
 	}
 
 	@Override

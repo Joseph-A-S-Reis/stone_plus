@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/cobbled_shale",
+    "up": "stone_plus:block/cobbled_shale",
+    "north": "stone_plus:block/cobbled_shale",
+    "east": "stone_plus:block/cobbled_shale",
+    "south": "stone_plus:block/cobbled_shale",
+    "west": "stone_plus:block/cobbled_shale",
+    "particle": "stone_plus:block/cobbled_shale"
+  },
+  "render_type": "solid"
+}

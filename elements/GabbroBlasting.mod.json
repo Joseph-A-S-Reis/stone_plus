@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "stone_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:CobbledGabbro"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.2,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:CobbledGabbro"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Gabbro"
+    },
+    "name": "gabbro_blasting",
+    "namespace": "mod"
+  }
+}

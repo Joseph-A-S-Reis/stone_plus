@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedScoria"
+      },
+      {
+        "value": "CUSTOM:PolishedScoria"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedScoriaWall"
+    },
+    "name": "polished_scoria_wall_recipe",
+    "namespace": "mod"
+  }
+}

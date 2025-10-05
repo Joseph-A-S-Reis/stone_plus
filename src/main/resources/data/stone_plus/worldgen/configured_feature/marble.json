@@ -1,13 +1,13 @@
 {
   "type": "minecraft:ore",
   "config": {
-    "size": 10,
+    "size": 8,
     "discard_chance_on_air_exposure": 0,
     "targets": [
       {
         "target": {
           "predicate_type": "tag_match",
-          "tag": "forge:stone"
+          "tag": "stone_plus:stone"
         },
         "state": {
           "Name": "stone_plus:marble"

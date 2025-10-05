@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "stone_plus:travertine",
+    "stone_plus:basanite",
+    "stone_plus:limestone",
+    "stone_plus:gabbro",
+    "stone_plus:greenstone",
+    "stone_plus:scoria",
+    "stone_plus:shale",
+    "stone_plus:quartzite",
+    "stone_plus:slate",
+    "stone_plus:marble"
+  ]
+}

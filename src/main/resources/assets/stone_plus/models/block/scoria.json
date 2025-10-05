@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/scoria_top",
+    "up": "stone_plus:block/scoria_top",
+    "north": "stone_plus:block/scoria_side",
+    "east": "stone_plus:block/scoria_side",
+    "south": "stone_plus:block/scoria_side",
+    "west": "stone_plus:block/scoria_side",
+    "particle": "stone_plus:block/scoria_top"
+  },
+  "render_type": "solid"
+}

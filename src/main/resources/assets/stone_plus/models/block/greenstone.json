@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/greenstone",
+    "up": "stone_plus:block/greenstone",
+    "north": "stone_plus:block/greenstone",
+    "east": "stone_plus:block/greenstone",
+    "south": "stone_plus:block/greenstone",
+    "west": "stone_plus:block/greenstone",
+    "particle": "stone_plus:block/greenstone"
+  },
+  "render_type": "solid"
+}

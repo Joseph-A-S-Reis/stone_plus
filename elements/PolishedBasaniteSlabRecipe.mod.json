@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedBasanite"
+      },
+      {
+        "value": "CUSTOM:PolishedBasanite"
+      },
+      {
+        "value": "CUSTOM:PolishedBasanite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedBasaniteSlab"
+    },
+    "name": "polished_basanite_slab_recipe",
+    "namespace": "mod"
+  }
+}

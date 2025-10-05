@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stone_plus:polished_scoria"
+    },
+    {
+      "item": "stone_plus:polished_scoria"
+    },
+    {
+      "item": "stone_plus:polished_scoria"
+    },
+    {
+      "item": "stone_plus:polished_scoria"
+    },
+    {
+      "item": "stone_plus:polished_scoria"
+    },
+    {
+      "item": "stone_plus:polished_scoria"
+    }
+  ],
+  "result": {
+    "item": "stone_plus:polished_scoria_wall",
+    "count": 6
+  }
+}

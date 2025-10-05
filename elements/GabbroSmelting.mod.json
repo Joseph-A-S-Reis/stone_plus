@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "stone_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:CobbledGabbro"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.2,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:CobbledGabbro"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Gabbro"
+    },
+    "name": "gabbro_smelting",
+    "namespace": "mod"
+  }
+}

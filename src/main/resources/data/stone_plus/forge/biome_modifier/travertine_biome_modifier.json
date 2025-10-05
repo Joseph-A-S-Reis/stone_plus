@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "desert",
+    "badlands"
+  ],
+  "features": "stone_plus:travertine",
+  "step": "underground_ores"
+}

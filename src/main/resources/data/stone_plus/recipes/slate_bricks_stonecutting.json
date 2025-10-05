@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "stone_plus",
-  "count": 1,
-  "ingredient": {
-    "item": "stone_plus:slate"
-  },
-  "result": "stone_plus:slate_bricks"
-}

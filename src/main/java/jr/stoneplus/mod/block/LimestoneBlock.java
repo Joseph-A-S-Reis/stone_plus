@@ -10,7 +10,7 @@ import net.minecraft.core.BlockPos;
 
 public class LimestoneBlock extends Block {
 	public LimestoneBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.STONE).strength(1.2f, 5f).requiresCorrectToolForDrops().instrument(NoteBlockInstrument.BASEDRUM));
+		super(BlockBehaviour.Properties.of().sound(SoundType.STONE).strength(1.25f, 4.5f).instrument(NoteBlockInstrument.BASEDRUM));
 	}
 
 	@Override

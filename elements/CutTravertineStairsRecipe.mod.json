@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CutTravertine"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutTravertine"
+      },
+      {
+        "value": "CUSTOM:CutTravertine"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CutTravertine"
+      },
+      {
+        "value": "CUSTOM:CutTravertine"
+      },
+      {
+        "value": "CUSTOM:CutTravertine"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CutTravertineStairs"
+    },
+    "name": "cut_travertine_stairs_recipe",
+    "namespace": "mod"
+  }
+}

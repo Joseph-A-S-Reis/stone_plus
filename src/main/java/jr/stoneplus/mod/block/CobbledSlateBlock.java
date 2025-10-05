@@ -10,7 +10,7 @@ import net.minecraft.core.BlockPos;
 
 public class CobbledSlateBlock extends Block {
 	public CobbledSlateBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.STONE).strength(2.7f, 6f).requiresCorrectToolForDrops().instrument(NoteBlockInstrument.BASEDRUM));
+		super(BlockBehaviour.Properties.of().sound(SoundType.STONE).strength(1.5f, 6f).requiresCorrectToolForDrops().instrument(NoteBlockInstrument.BASEDRUM));
 	}
 
 	@Override

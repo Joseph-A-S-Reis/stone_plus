@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "stone_plus:cobbled_slate",
+    "stone_plus:polished_limestone",
+    "stone_plus:polished_marble",
+    "stone_plus:polished_greenstone",
+    "stone_plus:cobbled_gabbro",
+    "stone_plus:cobbled_shale",
+    "stone_plus:scoria_bricks",
+    "stone_plus:cut_travertine",
+    "stone_plus:polished_basanite",
+    "stone_plus:basanite_bricks",
+    "stone_plus:polished_quartzite",
+    "stone_plus:polished_scoria"
+  ]
+}

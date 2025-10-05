@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stone_plus:polished_basanite"
+    },
+    {
+      "item": "stone_plus:polished_basanite"
+    },
+    {
+      "item": "stone_plus:polished_basanite"
+    },
+    {
+      "item": "stone_plus:polished_basanite"
+    },
+    {
+      "item": "stone_plus:polished_basanite"
+    },
+    {
+      "item": "stone_plus:polished_basanite"
+    }
+  ],
+  "result": {
+    "item": "stone_plus:polished_basanite_wall",
+    "count": 6
+  }
+}
