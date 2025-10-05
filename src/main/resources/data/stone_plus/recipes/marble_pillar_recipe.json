@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stone_plus:marble"
+    },
+    {
+      "item": "stone_plus:marble"
+    },
+    {
+      "item": "stone_plus:marble"
+    },
+    {
+      "item": "stone_plus:marble"
+    }
+  ],
+  "result": {
+    "item": "stone_plus:marble_pillar",
+    "count": 4
+  }
+}

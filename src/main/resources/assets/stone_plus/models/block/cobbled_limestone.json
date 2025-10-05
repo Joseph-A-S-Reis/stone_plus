@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/cobbled_limestone",
+    "up": "stone_plus:block/cobbled_limestone",
+    "north": "stone_plus:block/cobbled_limestone",
+    "east": "stone_plus:block/cobbled_limestone",
+    "south": "stone_plus:block/cobbled_limestone",
+    "west": "stone_plus:block/cobbled_limestone",
+    "particle": "stone_plus:block/cobbled_limestone"
+  },
+  "render_type": "solid"
+}

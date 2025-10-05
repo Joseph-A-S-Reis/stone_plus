@@ -1,0 +1,414 @@
+{
+  "mod_elements": [
+    {
+      "name": "Limestone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/limestone.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/limestone.json",
+          "src/main/resources/assets/stone_plus/models/item/limestone.json",
+          "src/main/resources/assets/stone_plus/models/block/limestone.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/limestone.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/limestone_biome_modifier.json",
+          "src/main/java/jr/stoneplus/mod/block/LimestoneBlock.java"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "CobbledLimestone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_limestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_limestone.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledLimestoneBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_limestone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_limestone.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_limestone.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "Marble",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/marble.json",
+          "src/main/resources/assets/stone_plus/models/item/marble.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/marble.json",
+          "src/main/java/jr/stoneplus/mod/block/MarbleBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/marble.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/marble_biome_modifier.json",
+          "src/main/resources/assets/stone_plus/models/block/marble.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "Slate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/slate.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/slate_biome_modifier.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/slate.json",
+          "src/main/java/jr/stoneplus/mod/block/SlateBlock.java",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/slate.json",
+          "src/main/resources/assets/stone_plus/models/block/slate.json",
+          "src/main/resources/assets/stone_plus/models/item/slate.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "Gneiss",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gneiss",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/GneissBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/gneiss.json",
+          "src/main/resources/assets/stone_plus/blockstates/gneiss.json",
+          "src/main/resources/assets/stone_plus/models/item/gneiss.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/gneiss.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "CobbledSlate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_slate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_slate.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_slate.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_slate.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledSlateBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_slate.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "Schist",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schist",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/SchistBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/schist.json",
+          "src/main/resources/assets/stone_plus/models/block/schist.json",
+          "src/main/resources/assets/stone_plus/models/item/schist.json",
+          "src/main/resources/assets/stone_plus/blockstates/schist.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "GneissRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gneiss_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/gneiss_recipe.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "SchistRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schist_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/schist_recipe.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "LimestoneDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limestone_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/limestone.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "SlateDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slate_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/slate.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "CobbledLimestoneSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_limestone_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_limestone_smelting.json",
+          "src/main/resources/data/stone_plus/recipes/cobbled_limestone_smelting.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "CobbledSlateSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_slate_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_slate_smelting.json",
+          "src/main/resources/data/stone_plus/recipes/cobbled_slate_smelting.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "LimestoneBricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limestone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/limestone_bricks.json",
+          "src/main/java/jr/stoneplus/mod/block/LimestoneBricksBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/limestone_bricks.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/limestone_bricks.json",
+          "src/main/resources/assets/stone_plus/blockstates/limestone_bricks.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "SlateBricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slate_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/slate_bricks.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/slate_bricks.json",
+          "src/main/resources/assets/stone_plus/blockstates/slate_bricks.json",
+          "src/main/resources/assets/stone_plus/models/block/slate_bricks.json",
+          "src/main/java/jr/stoneplus/mod/block/SlateBricksBlock.java"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "MarblePillar",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_pillar",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/marble_pillar.json",
+          "src/main/resources/assets/stone_plus/models/item/marble_pillar.json",
+          "src/main/java/jr/stoneplus/mod/block/MarblePillarBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/marble_pillar.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/marble_pillar.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "MarblePillarRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marble_pillar_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/marble_pillar_recipe.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "LimestoneBricksRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limestone_bricks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/limestone_bricks_recipe.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "SlateBricksRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slate_bricks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/slate_bricks_recipe.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "LimestoneBricksStonecutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "limestone_bricks_stonecutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/limestone_bricks_stonecutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/limestone_bricks_stonecutting.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    },
+    {
+      "name": "SlateBricksStonecutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slate_bricks_stonecutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/slate_bricks_stonecutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/slate_bricks_stonecutting.json"
+        ]
+      },
+      "path": "~/0.0.1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:MarblePillar",
+      "~CUSTOM:SlateBricks",
+      "~CUSTOM:LimestoneBricks",
+      "~CUSTOM:Schist",
+      "~CUSTOM:CobbledSlate",
+      "~CUSTOM:Gneiss",
+      "~CUSTOM:Slate",
+      "~CUSTOM:Marble",
+      "~CUSTOM:CobbledLimestone",
+      "~CUSTOM:Limestone"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:MarblePillar",
+      "~CUSTOM:SlateBricks",
+      "~CUSTOM:LimestoneBricks",
+      "~CUSTOM:Schist",
+      "~CUSTOM:CobbledSlate",
+      "~CUSTOM:Gneiss",
+      "~CUSTOM:Slate",
+      "~CUSTOM:Marble",
+      "~CUSTOM:CobbledLimestone",
+      "~CUSTOM:Limestone"
+    ],
+    "BLOCKS:mod:slate": [
+      "CUSTOM:Slate",
+      "CUSTOM:CobbledSlate"
+    ],
+    "ITEMS:mod:slate": [
+      "CUSTOM:Slate",
+      "CUSTOM:CobbledSlate"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.stone_plus.limestone": "Limestone",
+      "block.stone_plus.cobbled_limestone": "Cobbled Limestone",
+      "block.stone_plus.marble": "Marble",
+      "block.stone_plus.slate": "Slate",
+      "block.stone_plus.gneiss": "Gneiss",
+      "block.stone_plus.cobbled_slate": "Cobbled Slate",
+      "block.stone_plus.schist": "Schist",
+      "block.stone_plus.limestone_bricks": "Limestone Bricks",
+      "block.stone_plus.slate_bricks": "Slate Bricks",
+      "block.stone_plus.marble_pillar": "Marble Pillar"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/META-INF/mods.toml",
+      "src/main/java/jr/stoneplus/mod/StonePlusMod.java",
+      "src/main/java/jr/stoneplus/mod/init/StonePlusModBlocks.java",
+      "src/main/java/jr/stoneplus/mod/init/StonePlusModItems.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "0.0.1",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "stone_plus",
+    "modName": "Stone+",
+    "version": "0.0.1",
+    "description": "Adds stones from real life into the game.",
+    "author": "Joseph Reis",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "jr.stoneplus.mod"
+  },
+  "mcreatorVersion": 202500228610
+}

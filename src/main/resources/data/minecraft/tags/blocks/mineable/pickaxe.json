@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "stone_plus:marble_pillar",
+    "stone_plus:limestone_bricks",
+    "stone_plus:limestone",
+    "stone_plus:cobbled_limestone",
+    "stone_plus:cobbled_slate",
+    "stone_plus:schist",
+    "stone_plus:gneiss",
+    "stone_plus:slate",
+    "stone_plus:slate_bricks",
+    "stone_plus:marble"
+  ]
+}

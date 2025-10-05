@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "stone_plus:slate"
+    },
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "result": {
+    "item": "stone_plus:schist",
+    "count": 1
+  }
+}

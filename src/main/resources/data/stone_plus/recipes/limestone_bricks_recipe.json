@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stone_plus",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stone_plus:limestone"
+    },
+    {
+      "item": "stone_plus:limestone"
+    },
+    {
+      "item": "stone_plus:limestone"
+    },
+    {
+      "item": "stone_plus:limestone"
+    }
+  ],
+  "result": {
+    "item": "stone_plus:limestone_bricks",
+    "count": 4
+  }
+}
