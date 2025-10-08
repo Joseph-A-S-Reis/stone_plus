@@ -1964,13 +1964,17 @@
       {
         "name": "0.0.1",
         "children": []
+      },
+      {
+        "name": "0.0.2",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "stone_plus",
     "modName": "Stone+",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Adds stones from real life into the game.",
     "author": "Joseph Reis",
     "websiteURL": "https://mcreator.net",
