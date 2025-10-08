@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "stone_plus:block/polished_deepday",
+    "particle": "stone_plus:block/polished_deepday"
+  },
+  "render_type": "solid"
+}

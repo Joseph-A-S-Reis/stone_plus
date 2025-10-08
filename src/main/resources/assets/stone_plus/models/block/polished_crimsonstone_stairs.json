@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "stone_plus:block/polished_crimsonstone",
+    "bottom": "stone_plus:block/polished_crimsonstone",
+    "top": "stone_plus:block/polished_crimsonstone",
+    "side": "stone_plus:block/polished_crimsonstone"
+  },
+  "render_type": "solid"
+}

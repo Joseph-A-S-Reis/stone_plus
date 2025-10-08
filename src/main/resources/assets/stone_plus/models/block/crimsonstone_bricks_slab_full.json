@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "stone_plus:block/crimsonstone_bricks",
+    "bottom": "stone_plus:block/crimsonstone_bricks",
+    "top": "stone_plus:block/crimsonstone_bricks",
+    "side": "stone_plus:block/crimsonstone_bricks"
+  },
+  "render_type": "solid"
+}

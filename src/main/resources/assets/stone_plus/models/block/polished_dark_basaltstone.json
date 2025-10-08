@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/polished_dark_basaltstone",
+    "up": "stone_plus:block/polished_dark_basaltstone",
+    "north": "stone_plus:block/polished_dark_basaltstone",
+    "east": "stone_plus:block/polished_dark_basaltstone",
+    "south": "stone_plus:block/polished_dark_basaltstone",
+    "west": "stone_plus:block/polished_dark_basaltstone",
+    "particle": "stone_plus:block/polished_dark_basaltstone"
+  },
+  "render_type": "solid"
+}

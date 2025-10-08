@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "stone_plus",
+  "count": 2,
+  "ingredient": {
+    "item": "stone_plus:mudstone_bricks"
+  },
+  "result": "stone_plus:mudstone_bricks_slab"
+}

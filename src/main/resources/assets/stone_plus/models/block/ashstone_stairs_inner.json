@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "stone_plus:block/ashstone",
+    "bottom": "stone_plus:block/ashstone",
+    "top": "stone_plus:block/ashstone",
+    "side": "stone_plus:block/ashstone"
+  },
+  "render_type": "solid"
+}

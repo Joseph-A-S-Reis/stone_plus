@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ore_plus",
+  "count": 1,
+  "ingredient": {
+    "item": "stone_plus:mudstone"
+  },
+  "result": "stone_plus:mudstone_stairs"
+}

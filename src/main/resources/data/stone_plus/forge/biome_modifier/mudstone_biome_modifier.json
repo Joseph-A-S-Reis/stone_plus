@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "mangrove_swamp",
+    "swamp",
+    "frozen_river",
+    "river"
+  ],
+  "features": "stone_plus:mudstone",
+  "step": "underground_ores"
+}

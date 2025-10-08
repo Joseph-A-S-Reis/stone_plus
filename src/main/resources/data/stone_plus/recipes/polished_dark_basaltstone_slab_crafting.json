@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone_plus",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "stone_plus:polished_dark_basaltstone"
+    }
+  },
+  "result": {
+    "item": "stone_plus:polished_dark_basaltstone_slab",
+    "count": 6
+  }
+}

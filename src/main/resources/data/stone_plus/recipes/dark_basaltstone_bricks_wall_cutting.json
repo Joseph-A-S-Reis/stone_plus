@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "stone_plus",
+  "count": 1,
+  "ingredient": {
+    "item": "stone_plus:dark_basaltstone_bricks"
+  },
+  "result": "stone_plus:dark_basaltstone_bricks_wall"
+}

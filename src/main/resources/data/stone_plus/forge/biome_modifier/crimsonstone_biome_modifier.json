@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "crimson_forest",
+  "features": "stone_plus:crimsonstone",
+  "step": "underground_ores"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "stone_plus:block/polished_dark_basaltstone",
+    "bottom": "stone_plus:block/polished_dark_basaltstone",
+    "top": "stone_plus:block/polished_dark_basaltstone",
+    "side": "stone_plus:block/polished_dark_basaltstone"
+  },
+  "render_type": "solid"
+}

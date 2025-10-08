@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "stone_plus:block/deepday_tiles",
+    "bottom": "stone_plus:block/deepday_tiles",
+    "top": "stone_plus:block/deepday_tiles",
+    "side": "stone_plus:block/deepday_tiles"
+  },
+  "render_type": "solid"
+}

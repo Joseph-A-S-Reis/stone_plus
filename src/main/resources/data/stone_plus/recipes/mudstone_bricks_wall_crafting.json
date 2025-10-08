@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone_plus",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "stone_plus:mudstone_bricks"
+    }
+  },
+  "result": {
+    "item": "stone_plus:mudstone_bricks_wall",
+    "count": 6
+  }
+}

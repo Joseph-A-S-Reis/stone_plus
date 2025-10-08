@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "stone_plus",
+  "count": 1,
+  "ingredient": {
+    "item": "stone_plus:deepday_bricks"
+  },
+  "result": "stone_plus:deepday_bricks_stairs"
+}

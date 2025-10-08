@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cold_ocean",
+    "deep_cold_ocean",
+    "snowy_slopes",
+    "snowy_beach",
+    "snowy_plains",
+    "snowy_taiga",
+    "ice_spikes"
+  ],
+  "features": "stone_plus:froststone",
+  "step": "underground_ores"
+}

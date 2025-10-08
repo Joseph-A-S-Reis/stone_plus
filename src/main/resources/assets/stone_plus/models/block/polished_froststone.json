@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/polished_froststone",
+    "up": "stone_plus:block/polished_froststone",
+    "north": "stone_plus:block/polished_froststone",
+    "east": "stone_plus:block/polished_froststone",
+    "south": "stone_plus:block/polished_froststone",
+    "west": "stone_plus:block/polished_froststone",
+    "particle": "stone_plus:block/polished_froststone"
+  },
+  "render_type": "solid"
+}

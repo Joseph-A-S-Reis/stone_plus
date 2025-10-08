@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "stone_plus",
+  "category": "misc",
+  "experience": 0.2,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "stone_plus:cobbled_mudstone"
+  },
+  "result": "stone_plus:mudstone"
+}

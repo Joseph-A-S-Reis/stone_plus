@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone_plus",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "stone_plus:crimsonstone"
+    }
+  },
+  "result": {
+    "item": "stone_plus:crimsonstone_stairs",
+    "count": 6
+  }
+}

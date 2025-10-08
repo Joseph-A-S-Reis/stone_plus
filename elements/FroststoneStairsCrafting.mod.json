@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Froststone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Froststone"
+      },
+      {
+        "value": "CUSTOM:Froststone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Froststone"
+      },
+      {
+        "value": "CUSTOM:Froststone"
+      },
+      {
+        "value": "CUSTOM:Froststone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FroststoneStairs"
+    },
+    "name": "froststone_stairs_crafting",
+    "namespace": "mod"
+  }
+}

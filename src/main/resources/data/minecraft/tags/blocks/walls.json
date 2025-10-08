@@ -1,12 +1,31 @@
 {
   "replace": false,
   "values": [
-    "stone_plus:polished_quartzite_wall",
+    "stone_plus:polished_froststone_wall",
+    "stone_plus:dark_basaltstone_wall",
+    "stone_plus:dark_basaltstone_bricks_wall",
     "stone_plus:polished_basanite_wall",
-    "stone_plus:polished_limestone_wall",
-    "stone_plus:polished_marble_wall",
+    "stone_plus:deepday_bricks_wall",
+    "stone_plus:polished_deepday_wall",
     "stone_plus:cut_travertine_wall",
     "stone_plus:polished_scoria_wall",
-    "stone_plus:polished_greenstone_wall"
+    "stone_plus:deepday_wall",
+    "stone_plus:polished_dark_basaltstone_wall",
+    "stone_plus:ashstone_bricks_wall",
+    "stone_plus:polished_quartzite_wall",
+    "stone_plus:polished_crimsonstone_wall",
+    "stone_plus:polished_limestone_wall",
+    "stone_plus:polished_marble_wall",
+    "stone_plus:deepday_tiles_wall",
+    "stone_plus:polished_greenstone_wall",
+    "stone_plus:mudstone_wall",
+    "stone_plus:cobbled_ashstone_wall",
+    "stone_plus:ashstone_wall",
+    "stone_plus:froststone_wall",
+    "stone_plus:mudstone_bricks_wall",
+    "stone_plus:cobbled_mudstone_wall",
+    "stone_plus:crimsonstone_wall",
+    "stone_plus:crimsonstone_bricks_wall",
+    "stone_plus:cobbled_deepday_wall"
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone_plus",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "stone_plus:deepday_tiles"
+    }
+  },
+  "result": {
+    "item": "stone_plus:deepday_tiles_wall",
+    "count": 6
+  }
+}

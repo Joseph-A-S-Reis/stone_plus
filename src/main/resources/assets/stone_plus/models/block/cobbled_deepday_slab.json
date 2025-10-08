@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "stone_plus:block/cobbled_deepday",
+    "bottom": "stone_plus:block/cobbled_deepday",
+    "top": "stone_plus:block/cobbled_deepday",
+    "side": "stone_plus:block/cobbled_deepday"
+  },
+  "render_type": "solid"
+}

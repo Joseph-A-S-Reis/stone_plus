@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CobbledAshstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CobbledAshstone"
+      },
+      {
+        "value": "CUSTOM:CobbledAshstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CobbledAshstone"
+      },
+      {
+        "value": "CUSTOM:CobbledAshstone"
+      },
+      {
+        "value": "CUSTOM:CobbledAshstone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CobbledAshstoneStairs"
+    },
+    "name": "cobbled_ashstone_stairs_crafting",
+    "namespace": "mod"
+  }
+}

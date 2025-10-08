@@ -19,14 +19,14 @@
       "registry_name": "basanite",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/basanite.json",
           "src/main/resources/data/stone_plus/worldgen/placed_feature/basanite.json",
-          "src/main/resources/assets/stone_plus/blockstates/basanite.json",
           "src/main/resources/assets/stone_plus/models/item/basanite.json",
-          "src/main/java/jr/stoneplus/mod/block/BasaniteBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/basanite.json",
+          "src/main/resources/assets/stone_plus/models/block/basanite.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/basanite.json",
-          "src/main/resources/data/stone_plus/worldgen/configured_feature/basanite.json",
-          "src/main/resources/data/stone_plus/forge/biome_modifier/basanite_biome_modifier.json"
+          "src/main/java/jr/stoneplus/mod/block/BasaniteBlock.java",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/basanite_biome_modifier.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/basanite.json"
         ]
       },
       "path": "~/0.0.1"
@@ -41,11 +41,11 @@
         "files": [
           "src/main/resources/assets/stone_plus/blockstates/gabbro.json",
           "src/main/resources/data/stone_plus/forge/biome_modifier/gabbro_biome_modifier.json",
-          "src/main/resources/data/stone_plus/worldgen/placed_feature/gabbro.json",
-          "src/main/resources/assets/stone_plus/models/item/gabbro.json",
-          "src/main/resources/assets/stone_plus/models/block/gabbro.json",
           "src/main/java/jr/stoneplus/mod/block/GabbroBlock.java",
-          "src/main/resources/data/stone_plus/worldgen/configured_feature/gabbro.json"
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/gabbro.json",
+          "src/main/resources/assets/stone_plus/models/block/gabbro.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/gabbro.json",
+          "src/main/resources/assets/stone_plus/models/item/gabbro.json"
         ]
       },
       "path": "~/0.0.1"
@@ -58,14 +58,14 @@
       "registry_name": "limestone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/blockstates/limestone.json",
+          "src/main/java/jr/stoneplus/mod/block/LimestoneBlock.java",
           "src/main/resources/data/stone_plus/loot_tables/blocks/limestone.json",
           "src/main/resources/data/stone_plus/worldgen/configured_feature/limestone.json",
-          "src/main/resources/assets/stone_plus/models/item/limestone.json",
-          "src/main/resources/assets/stone_plus/models/block/limestone.json",
+          "src/main/resources/assets/stone_plus/blockstates/limestone.json",
           "src/main/resources/data/stone_plus/worldgen/placed_feature/limestone.json",
+          "src/main/resources/assets/stone_plus/models/item/limestone.json",
           "src/main/resources/data/stone_plus/forge/biome_modifier/limestone_biome_modifier.json",
-          "src/main/java/jr/stoneplus/mod/block/LimestoneBlock.java"
+          "src/main/resources/assets/stone_plus/models/block/limestone.json"
         ]
       },
       "path": "~/0.0.1"
@@ -78,14 +78,14 @@
       "registry_name": "marble",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/worldgen/configured_feature/marble.json",
-          "src/main/resources/assets/stone_plus/models/item/marble.json",
-          "src/main/resources/data/stone_plus/worldgen/placed_feature/marble.json",
-          "src/main/java/jr/stoneplus/mod/block/MarbleBlock.java",
           "src/main/resources/assets/stone_plus/blockstates/marble.json",
-          "src/main/resources/data/stone_plus/forge/biome_modifier/marble_biome_modifier.json",
           "src/main/resources/assets/stone_plus/models/block/marble.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/marble.json"
+          "src/main/resources/data/stone_plus/forge/biome_modifier/marble_biome_modifier.json",
+          "src/main/resources/assets/stone_plus/models/item/marble.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/marble.json",
+          "src/main/java/jr/stoneplus/mod/block/MarbleBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/marble.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/marble.json"
         ]
       },
       "path": "~/0.0.1"
@@ -99,13 +99,13 @@
       "metadata": {
         "files": [
           "src/main/java/jr/stoneplus/mod/block/QuartziteBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/quartzite.json",
+          "src/main/resources/assets/stone_plus/models/item/quartzite.json",
           "src/main/resources/data/stone_plus/forge/biome_modifier/quartzite_biome_modifier.json",
           "src/main/resources/data/stone_plus/worldgen/configured_feature/quartzite.json",
-          "src/main/resources/assets/stone_plus/models/item/quartzite.json",
-          "src/main/resources/data/stone_plus/worldgen/placed_feature/quartzite.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/quartzite.json",
           "src/main/resources/assets/stone_plus/models/block/quartzite.json",
-          "src/main/resources/assets/stone_plus/blockstates/quartzite.json"
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/quartzite.json"
         ]
       },
       "path": "~/0.0.1"
@@ -118,14 +118,14 @@
       "registry_name": "scoria",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/forge/biome_modifier/scoria_biome_modifier.json",
           "src/main/resources/assets/stone_plus/blockstates/scoria.json",
-          "src/main/resources/data/stone_plus/worldgen/placed_feature/scoria.json",
           "src/main/resources/assets/stone_plus/models/item/scoria.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/scoria.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/scoria.json",
           "src/main/resources/assets/stone_plus/models/block/scoria.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/scoria_biome_modifier.json",
           "src/main/resources/data/stone_plus/worldgen/configured_feature/scoria.json",
-          "src/main/java/jr/stoneplus/mod/block/ScoriaBlock.java",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/scoria.json"
+          "src/main/java/jr/stoneplus/mod/block/ScoriaBlock.java"
         ]
       },
       "path": "~/0.0.1"
@@ -139,12 +139,12 @@
       "metadata": {
         "files": [
           "src/main/resources/data/stone_plus/worldgen/configured_feature/shale.json",
-          "src/main/resources/data/stone_plus/worldgen/placed_feature/shale.json",
+          "src/main/resources/assets/stone_plus/models/item/shale.json",
           "src/main/java/jr/stoneplus/mod/block/ShaleBlock.java",
           "src/main/resources/data/stone_plus/forge/biome_modifier/shale_biome_modifier.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/shale.json",
           "src/main/resources/assets/stone_plus/blockstates/shale.json",
-          "src/main/resources/assets/stone_plus/models/block/shale.json",
-          "src/main/resources/assets/stone_plus/models/item/shale.json"
+          "src/main/resources/assets/stone_plus/models/block/shale.json"
         ]
       },
       "path": "~/0.0.1"
@@ -157,13 +157,13 @@
       "registry_name": "slate",
       "metadata": {
         "files": [
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/slate.json",
           "src/main/resources/assets/stone_plus/blockstates/slate.json",
+          "src/main/resources/assets/stone_plus/models/item/slate.json",
           "src/main/resources/data/stone_plus/forge/biome_modifier/slate_biome_modifier.json",
           "src/main/resources/data/stone_plus/worldgen/configured_feature/slate.json",
-          "src/main/java/jr/stoneplus/mod/block/SlateBlock.java",
-          "src/main/resources/data/stone_plus/worldgen/placed_feature/slate.json",
           "src/main/resources/assets/stone_plus/models/block/slate.json",
-          "src/main/resources/assets/stone_plus/models/item/slate.json"
+          "src/main/java/jr/stoneplus/mod/block/SlateBlock.java"
         ]
       },
       "path": "~/0.0.1"
@@ -176,14 +176,14 @@
       "registry_name": "travertine",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/worldgen/configured_feature/travertine.json",
           "src/main/resources/data/stone_plus/worldgen/placed_feature/travertine.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/travertine.json",
+          "src/main/resources/assets/stone_plus/models/item/travertine.json",
           "src/main/java/jr/stoneplus/mod/block/TravertineBlock.java",
           "src/main/resources/assets/stone_plus/blockstates/travertine.json",
           "src/main/resources/assets/stone_plus/models/block/travertine.json",
-          "src/main/resources/assets/stone_plus/models/item/travertine.json",
           "src/main/resources/data/stone_plus/forge/biome_modifier/travertine_biome_modifier.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/travertine.json"
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/travertine.json"
         ]
       },
       "path": "~/0.0.1"
@@ -196,11 +196,11 @@
       "registry_name": "greenstone",
       "metadata": {
         "files": [
-          "src/main/java/jr/stoneplus/mod/block/GreenstoneBlock.java",
-          "src/main/resources/assets/stone_plus/blockstates/greenstone.json",
-          "src/main/resources/assets/stone_plus/models/item/greenstone.json",
           "src/main/resources/assets/stone_plus/models/block/greenstone.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/greenstone.json"
+          "src/main/resources/data/stone_plus/loot_tables/blocks/greenstone.json",
+          "src/main/resources/assets/stone_plus/models/item/greenstone.json",
+          "src/main/java/jr/stoneplus/mod/block/GreenstoneBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/greenstone.json"
         ]
       },
       "path": "~/0.0.1"
@@ -213,11 +213,11 @@
       "registry_name": "cobbled_gabbro",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/item/cobbled_gabbro.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_gabbro.json",
           "src/main/resources/assets/stone_plus/blockstates/cobbled_gabbro.json",
           "src/main/resources/assets/stone_plus/models/block/cobbled_gabbro.json",
-          "src/main/java/jr/stoneplus/mod/block/CobbledGabbroBlock.java"
+          "src/main/java/jr/stoneplus/mod/block/CobbledGabbroBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_gabbro.json"
         ]
       },
       "path": "~/0.0.1"
@@ -230,10 +230,10 @@
       "registry_name": "cobbled_shale",
       "metadata": {
         "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_shale.json",
           "src/main/resources/assets/stone_plus/blockstates/cobbled_shale.json",
           "src/main/resources/assets/stone_plus/models/item/cobbled_shale.json",
           "src/main/java/jr/stoneplus/mod/block/CobbledShaleBlock.java",
-          "src/main/resources/assets/stone_plus/models/block/cobbled_shale.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_shale.json"
         ]
       },
@@ -247,10 +247,10 @@
       "registry_name": "cobbled_slate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/cobbled_slate.json",
           "src/main/resources/assets/stone_plus/models/item/cobbled_slate.json",
-          "src/main/resources/assets/stone_plus/blockstates/cobbled_slate.json",
           "src/main/java/jr/stoneplus/mod/block/CobbledSlateBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_slate.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_slate.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_slate.json"
         ]
       },
@@ -303,11 +303,11 @@
       "registry_name": "polished_basanite",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_basanite.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_basanite.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_basanite.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedBasaniteBlock.java",
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite.json"
+          "src/main/resources/assets/stone_plus/blockstates/polished_basanite.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_basanite.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_basanite.json"
         ]
       },
       "path": "~/0.0.1"
@@ -320,11 +320,11 @@
       "registry_name": "basanite_bricks",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/loot_tables/blocks/basanite_bricks.json",
           "src/main/java/jr/stoneplus/mod/block/BasaniteBricksBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/basanite_bricks.json",
           "src/main/resources/assets/stone_plus/blockstates/basanite_bricks.json",
-          "src/main/resources/assets/stone_plus/models/block/basanite_bricks.json",
-          "src/main/resources/assets/stone_plus/models/item/basanite_bricks.json"
+          "src/main/resources/data/stone_plus/loot_tables/blocks/basanite_bricks.json",
+          "src/main/resources/assets/stone_plus/models/block/basanite_bricks.json"
         ]
       },
       "path": "~/0.0.1"
@@ -337,11 +337,11 @@
       "registry_name": "polished_limestone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/blockstates/polished_limestone.json",
           "src/main/resources/assets/stone_plus/models/item/polished_limestone.json",
           "src/main/resources/assets/stone_plus/models/block/polished_limestone.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedLimestoneBlock.java",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone.json"
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_limestone.json"
         ]
       },
       "path": "~/0.0.1"
@@ -354,11 +354,11 @@
       "registry_name": "polished_marble",
       "metadata": {
         "files": [
+          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/polished_marble.json",
           "src/main/resources/assets/stone_plus/blockstates/polished_marble.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_marble.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_marble.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_marble.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleBlock.java"
+          "src/main/resources/assets/stone_plus/models/block/polished_marble.json"
         ]
       },
       "path": "~/0.0.1"
@@ -371,10 +371,10 @@
       "registry_name": "polished_quartzite",
       "metadata": {
         "files": [
+          "src/main/resources/assets/stone_plus/models/item/polished_quartzite.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedQuartziteBlock.java",
           "src/main/resources/assets/stone_plus/blockstates/polished_quartzite.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_quartzite.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_quartzite.json",
           "src/main/resources/assets/stone_plus/models/block/polished_quartzite.json"
         ]
       },
@@ -388,9 +388,9 @@
       "registry_name": "polished_scoria",
       "metadata": {
         "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_scoria.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedScoriaBlock.java",
           "src/main/resources/assets/stone_plus/models/item/polished_scoria.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_scoria.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_scoria.json",
           "src/main/resources/assets/stone_plus/models/block/polished_scoria.json"
         ]
@@ -405,11 +405,11 @@
       "registry_name": "scoria_bricks",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/scoria_bricks.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/scoria_bricks.json",
-          "src/main/java/jr/stoneplus/mod/block/ScoriaBricksBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/scoria_bricks.json",
           "src/main/resources/assets/stone_plus/blockstates/scoria_bricks.json",
-          "src/main/resources/assets/stone_plus/models/item/scoria_bricks.json"
+          "src/main/resources/data/stone_plus/loot_tables/blocks/scoria_bricks.json",
+          "src/main/resources/assets/stone_plus/models/block/scoria_bricks.json",
+          "src/main/java/jr/stoneplus/mod/block/ScoriaBricksBlock.java"
         ]
       },
       "path": "~/0.0.1"
@@ -422,11 +422,11 @@
       "registry_name": "cut_travertine",
       "metadata": {
         "files": [
+          "src/main/resources/assets/stone_plus/models/item/cut_travertine.json",
           "src/main/resources/assets/stone_plus/models/block/cut_travertine.json",
           "src/main/resources/assets/stone_plus/blockstates/cut_travertine.json",
-          "src/main/java/jr/stoneplus/mod/block/CutTravertineBlock.java",
-          "src/main/resources/assets/stone_plus/models/item/cut_travertine.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_travertine.json"
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_travertine.json",
+          "src/main/java/jr/stoneplus/mod/block/CutTravertineBlock.java"
         ]
       },
       "path": "~/0.0.1"
@@ -439,11 +439,11 @@
       "registry_name": "polished_greenstone",
       "metadata": {
         "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_greenstone.json",
           "src/main/resources/assets/stone_plus/models/item/polished_greenstone.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedGreenstoneBlock.java",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_greenstone.json",
           "src/main/resources/assets/stone_plus/models/block/polished_greenstone.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_greenstone.json"
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_greenstone.json"
         ]
       },
       "path": "~/0.0.1"
@@ -643,8 +643,8 @@
       "registry_name": "slate_blasting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/slate_blasting.json",
-          "src/main/resources/data/stone_plus/recipes/slate_blasting.json"
+          "src/main/resources/data/stone_plus/recipes/slate_blasting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/slate_blasting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -671,8 +671,8 @@
       "registry_name": "basanite_bricks_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/recipes/basanite_bricks_cutting.json",
-          "src/main/resources/data/stone_plus/advancements/recipes/basanite_bricks_cutting.json"
+          "src/main/resources/data/stone_plus/advancements/recipes/basanite_bricks_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/basanite_bricks_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -685,8 +685,8 @@
       "registry_name": "polished_limestone_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_limestone_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/polished_limestone_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/polished_limestone_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_limestone_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -699,8 +699,8 @@
       "registry_name": "polished_marble_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_marble_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/polished_marble_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/polished_marble_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_marble_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -713,8 +713,8 @@
       "registry_name": "polished_quartzite_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_quartzite_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/polished_quartzite_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/polished_quartzite_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_quartzite_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -727,8 +727,8 @@
       "registry_name": "polished_scoria_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/recipes/polished_scoria_cutting.json",
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_scoria_cutting.json"
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_scoria_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_scoria_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -741,8 +741,8 @@
       "registry_name": "scoria_bricks_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/scoria_bricks_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/scoria_bricks_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/scoria_bricks_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/scoria_bricks_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -784,12 +784,12 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/stone_plus/models/block/polished_basanite_stairs_inner.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedBasaniteStairsBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_basanite_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_basanite_stairs_outer.json",
           "src/main/resources/assets/stone_plus/models/item/polished_basanite_stairs.json",
           "src/main/resources/assets/stone_plus/blockstates/polished_basanite_stairs.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_basanite_stairs.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite_stairs.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedBasaniteStairsBlock.java"
         ]
       },
       "path": "~/0.0.1"
@@ -802,13 +802,13 @@
       "registry_name": "polished_basanite_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/blockstates/polished_basanite_slab.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite_slab.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedBasaniteSlabBlock.java",
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite_slab_full.json",
           "src/main/resources/assets/stone_plus/models/item/polished_basanite_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite_slab_full.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedBasaniteSlabBlock.java",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_basanite_slab.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite_slab_top.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_basanite_slab.json"
         ]
       },
       "path": "~/0.0.1"
@@ -821,14 +821,14 @@
       "registry_name": "polished_basanite_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite_wall_inventory.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_basanite_wall.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_basanite_wall.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedBasaniteWallBlock.java",
-          "src/main/resources/assets/stone_plus/blockstates/polished_basanite_wall.json",
           "src/main/resources/assets/stone_plus/models/block/polished_basanite_wall.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite_wall_side_tall.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_basanite_wall_post.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite_wall_inventory.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedBasaniteWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/polished_basanite_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_basanite_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_basanite_wall_side_tall.json"
         ]
       },
       "path": "~/0.0.1"
@@ -880,12 +880,12 @@
       "registry_name": "polished_limestone_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone_stairs.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_limestone_stairs_outer.json",
           "src/main/resources/assets/stone_plus/blockstates/polished_limestone_stairs.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedLimestoneStairsBlock.java",
-          "src/main/resources/assets/stone_plus/models/item/polished_limestone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_limestone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_limestone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_limestone_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_limestone_stairs_inner.json"
         ]
       },
@@ -899,13 +899,13 @@
       "registry_name": "polished_limestone_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/blockstates/polished_limestone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_limestone_slab_top.json",
           "src/main/resources/assets/stone_plus/models/block/polished_limestone_slab.json",
           "src/main/resources/assets/stone_plus/models/block/polished_limestone_slab_full.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone_slab.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedLimestoneSlabBlock.java",
-          "src/main/resources/assets/stone_plus/models/block/polished_limestone_slab_top.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_limestone_slab.json"
+          "src/main/resources/assets/stone_plus/models/item/polished_limestone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_limestone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone_slab.json"
         ]
       },
       "path": "~/0.0.1"
@@ -918,14 +918,14 @@
       "registry_name": "polished_limestone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_limestone_wall_inventory.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_limestone_wall_post.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedLimestoneWallBlock.java",
-          "src/main/resources/assets/stone_plus/models/item/polished_limestone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_limestone_wall_post.json",
           "src/main/resources/assets/stone_plus/blockstates/polished_limestone_wall.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_limestone_wall.json",
           "src/main/resources/assets/stone_plus/models/block/polished_limestone_wall_side_tall.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone_wall.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_limestone_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_limestone_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_limestone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_limestone_wall_inventory.json"
         ]
       },
       "path": "~/0.0.1"
@@ -977,13 +977,13 @@
       "registry_name": "polished_marble_stairs",
       "metadata": {
         "files": [
+          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleStairsBlock.java",
           "src/main/resources/assets/stone_plus/models/block/polished_marble_stairs_outer.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_marble_stairs.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_marble_stairs.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_marble_stairs.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_marble_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_marble_stairs_inner.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleStairsBlock.java"
+          "src/main/resources/assets/stone_plus/models/block/polished_marble_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_marble_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_marble_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_marble_stairs.json"
         ]
       },
       "path": "~/0.0.1"
@@ -996,13 +996,13 @@
       "registry_name": "polished_marble_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_marble_slab.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_marble_slab_top.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleSlabBlock.java",
-          "src/main/resources/assets/stone_plus/models/item/polished_marble_slab.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_marble_slab.json",
           "src/main/resources/assets/stone_plus/blockstates/polished_marble_slab.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_marble_slab_full.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_marble_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_marble_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_marble_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_marble_slab.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1015,14 +1015,14 @@
       "registry_name": "polished_marble_wall",
       "metadata": {
         "files": [
-          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_marble_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_marble_wall_side_tall.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_marble_wall.json",
           "src/main/resources/assets/stone_plus/models/item/polished_marble_wall.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_marble_wall_inventory.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_marble_wall.json",
           "src/main/resources/assets/stone_plus/models/block/polished_marble_wall_post.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_marble_wall_side_tall.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_marble_wall.json"
+          "src/main/java/jr/stoneplus/mod/block/PolishedMarbleWallBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/polished_marble_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_marble_wall_inventory.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1074,13 +1074,13 @@
       "registry_name": "polished_quartzite_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_quartzite_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_quartzite_stairs.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_quartzite_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_quartzite_stairs_outer.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedQuartziteStairsBlock.java",
-          "src/main/resources/assets/stone_plus/blockstates/polished_quartzite_stairs.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_stairs_inner.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_quartzite_stairs.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_stairs_inner.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1093,13 +1093,13 @@
       "registry_name": "polished_quartzite_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_slab.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_quartzite_slab.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_quartzite_slab.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_quartzite_slab.json",
           "src/main/resources/assets/stone_plus/models/block/polished_quartzite_slab_full.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedQuartziteSlabBlock.java",
           "src/main/resources/assets/stone_plus/models/block/polished_quartzite_slab_top.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedQuartziteSlabBlock.java"
+          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_quartzite_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_quartzite_slab.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1112,14 +1112,14 @@
       "registry_name": "polished_quartzite_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_wall_inventory.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_wall_side_tall.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedQuartziteWallBlock.java",
-          "src/main/resources/assets/stone_plus/models/item/polished_quartzite_wall.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_wall_post.json",
           "src/main/resources/assets/stone_plus/models/block/polished_quartzite_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedQuartziteWallBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/polished_quartzite_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_quartzite_wall.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_quartzite_wall.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_quartzite_wall.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_quartzite_wall_inventory.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1171,13 +1171,13 @@
       "registry_name": "polished_scoria_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_scoria_stairs_outer.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_scoria_stairs_inner.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_scoria_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_scoria_stairs.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedScoriaStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_scoria_stairs_outer.json",
           "src/main/resources/assets/stone_plus/models/item/polished_scoria_stairs.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_scoria_stairs.json"
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_scoria_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_scoria_stairs_inner.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedScoriaStairsBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/polished_scoria_stairs.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1190,13 +1190,13 @@
       "registry_name": "polished_scoria_slab",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_scoria_slab.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedScoriaSlabBlock.java",
-          "src/main/resources/assets/stone_plus/models/block/polished_scoria_slab_full.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_scoria_slab_top.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_scoria_slab.json",
           "src/main/resources/assets/stone_plus/models/block/polished_scoria_slab.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_scoria_slab.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_scoria_slab.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_scoria_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_scoria_slab_full.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_scoria_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_scoria_slab.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1210,13 +1210,13 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/stone_plus/blockstates/polished_scoria_wall.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_scoria_wall.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedScoriaWallBlock.java",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_scoria_wall.json",
           "src/main/resources/assets/stone_plus/models/block/polished_scoria_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_scoria_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_scoria_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_scoria_wall_side_tall.json",
           "src/main/resources/assets/stone_plus/models/block/polished_scoria_wall_post.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_scoria_wall_inventory.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_scoria_wall_side_tall.json"
+          "src/main/java/jr/stoneplus/mod/block/PolishedScoriaWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_scoria_wall_inventory.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1268,12 +1268,12 @@
       "registry_name": "cut_travertine_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/cut_travertine_stairs_inner.json",
-          "src/main/resources/assets/stone_plus/models/block/cut_travertine_stairs.json",
-          "src/main/java/jr/stoneplus/mod/block/CutTravertineStairsBlock.java",
           "src/main/resources/assets/stone_plus/models/item/cut_travertine_stairs.json",
-          "src/main/resources/assets/stone_plus/blockstates/cut_travertine_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_travertine_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/cut_travertine_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_travertine_stairs_inner.json",
+          "src/main/java/jr/stoneplus/mod/block/CutTravertineStairsBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/cut_travertine_stairs.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/cut_travertine_stairs.json"
         ]
       },
@@ -1287,13 +1287,13 @@
       "registry_name": "cut_travertine_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/cut_travertine_slab_top.json",
-          "src/main/resources/assets/stone_plus/models/block/cut_travertine_slab_full.json",
           "src/main/resources/assets/stone_plus/models/block/cut_travertine_slab.json",
-          "src/main/java/jr/stoneplus/mod/block/CutTravertineSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cut_travertine_slab_top.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_travertine_slab.json",
           "src/main/resources/assets/stone_plus/blockstates/cut_travertine_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_travertine_slab_full.json",
           "src/main/resources/assets/stone_plus/models/item/cut_travertine_slab.json",
-          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_travertine_slab.json"
+          "src/main/java/jr/stoneplus/mod/block/CutTravertineSlabBlock.java"
         ]
       },
       "path": "~/0.0.1"
@@ -1306,14 +1306,14 @@
       "registry_name": "cut_travertine_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/cut_travertine_wall_side_tall.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/cut_travertine_wall.json",
-          "src/main/resources/assets/stone_plus/models/block/cut_travertine_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/CutTravertineWallBlock.java",
           "src/main/resources/assets/stone_plus/models/block/cut_travertine_wall_post.json",
-          "src/main/resources/assets/stone_plus/blockstates/cut_travertine_wall.json",
           "src/main/resources/assets/stone_plus/models/item/cut_travertine_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_travertine_wall.json",
           "src/main/resources/assets/stone_plus/models/block/cut_travertine_wall_inventory.json",
-          "src/main/java/jr/stoneplus/mod/block/CutTravertineWallBlock.java"
+          "src/main/resources/assets/stone_plus/blockstates/cut_travertine_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_travertine_wall_side_tall.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1366,12 +1366,12 @@
       "metadata": {
         "files": [
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_greenstone_stairs.json",
-          "src/main/java/jr/stoneplus/mod/block/PolishedGreenstoneStairsBlock.java",
-          "src/main/resources/assets/stone_plus/blockstates/polished_greenstone_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_greenstone_stairs_outer.json",
           "src/main/resources/assets/stone_plus/models/item/polished_greenstone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_greenstone_stairs.json",
           "src/main/resources/assets/stone_plus/models/block/polished_greenstone_stairs.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_stairs_inner.json"
+          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_stairs_inner.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedGreenstoneStairsBlock.java"
         ]
       },
       "path": "~/0.0.1"
@@ -1384,12 +1384,12 @@
       "registry_name": "polished_greenstone_slab",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_greenstone_slab.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_slab.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedGreenstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_slab.json",
           "src/main/resources/assets/stone_plus/models/block/polished_greenstone_slab_full.json",
           "src/main/resources/assets/stone_plus/models/item/polished_greenstone_slab.json",
           "src/main/resources/assets/stone_plus/blockstates/polished_greenstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_greenstone_slab.json",
           "src/main/resources/assets/stone_plus/models/block/polished_greenstone_slab_top.json"
         ]
       },
@@ -1403,14 +1403,14 @@
       "registry_name": "polished_greenstone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_wall_side_tall.json",
-          "src/main/resources/assets/stone_plus/models/item/polished_greenstone_wall.json",
-          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_wall_post.json",
           "src/main/resources/assets/stone_plus/models/block/polished_greenstone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_wall.json",
           "src/main/resources/data/stone_plus/loot_tables/blocks/polished_greenstone_wall.json",
-          "src/main/resources/assets/stone_plus/blockstates/polished_greenstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_wall_post.json",
           "src/main/java/jr/stoneplus/mod/block/PolishedGreenstoneWallBlock.java",
-          "src/main/resources/assets/stone_plus/models/block/polished_greenstone_wall.json"
+          "src/main/resources/assets/stone_plus/blockstates/polished_greenstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_greenstone_wall.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1462,8 +1462,8 @@
       "registry_name": "polished_basanite_stairs_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/recipes/polished_basanite_stairs_cutting.json",
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_basanite_stairs_cutting.json"
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_basanite_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_basanite_stairs_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1504,8 +1504,8 @@
       "registry_name": "polished_limestone_stairs_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/recipes/polished_limestone_stairs_cutting.json",
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_limestone_stairs_cutting.json"
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_limestone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_limestone_stairs_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1532,8 +1532,8 @@
       "registry_name": "polished_limestone_wall_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_limestone_wall_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/polished_limestone_wall_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/polished_limestone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_limestone_wall_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1630,8 +1630,8 @@
       "registry_name": "polished_scoria_stairs_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_scoria_stairs_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/polished_scoria_stairs_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/polished_scoria_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_scoria_stairs_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1644,8 +1644,8 @@
       "registry_name": "polished_scoria_slab_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_scoria_slab_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/polished_scoria_slab_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/polished_scoria_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_scoria_slab_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1686,8 +1686,8 @@
       "registry_name": "cut_travertine_slab_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/advancements/recipes/cut_travertine_slab_cutting.json",
-          "src/main/resources/data/stone_plus/recipes/cut_travertine_slab_cutting.json"
+          "src/main/resources/data/stone_plus/recipes/cut_travertine_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_travertine_slab_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1728,8 +1728,8 @@
       "registry_name": "polished_greenstone_slab_cutting",
       "metadata": {
         "files": [
-          "src/main/resources/data/stone_plus/recipes/polished_greenstone_slab_cutting.json",
-          "src/main/resources/data/stone_plus/advancements/recipes/polished_greenstone_slab_cutting.json"
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_greenstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_greenstone_slab_cutting.json"
         ]
       },
       "path": "~/0.0.1"
@@ -1747,6 +1747,3370 @@
         ]
       },
       "path": "~/0.0.1"
+    },
+    {
+      "name": "Ashstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/ashstone.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/ashstone.json",
+          "src/main/java/jr/stoneplus/mod/block/AshstoneBlock.java",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/ashstone.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/ashstone_biome_modifier.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone.json",
+          "src/main/resources/assets/stone_plus/models/item/ashstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/CobbledAshstoneBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_ashstone.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_ashstone.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_ashstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone_bricks.json",
+          "src/main/resources/assets/stone_plus/blockstates/ashstone_bricks.json",
+          "src/main/java/jr/stoneplus/mod/block/AshstoneBricksBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/ashstone_bricks.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/ashstone_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_ashstone_smelting.json",
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_smelting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_blasting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_ashstone_blasting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_bricks_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/ashstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/AshstoneBricksStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/ashstone_bricks_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone_bricks_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/AshstoneBricksSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/ashstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/ashstone_bricks_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_slab_top.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_wall_inventory.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone_bricks_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/AshstoneBricksWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/ashstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/ashstone_bricks_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_bricks_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_bricks_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_bricks_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/ashstone_bricks_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/ashstone_bricks_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_bricks_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/ashstone_bricks_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneBricksWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_bricks_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/ashstone_bricks_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/ashstone_bricks_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/ashstone_stairs_inner.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/AshstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/ashstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/blockstates/ashstone_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/ashstone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/ashstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_slab_top.json",
+          "src/main/java/jr/stoneplus/mod/block/AshstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/ashstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/ashstone_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/AshstoneWallBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/ashstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/ashstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/item/ashstone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/ashstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/ashstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/ashstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "AshstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/ashstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/ashstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_ashstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_ashstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_ashstone_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledAshstoneStairsBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_slab_top.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_ashstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_ashstone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledAshstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_ashstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_slab_full.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_ashstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_ashstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_ashstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_ashstone_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledAshstoneWallBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_ashstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_ashstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledAshstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_ashstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_ashstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cobbled_ashstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "Crimsonstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/forge/biome_modifier/crimsonstone_biome_modifier.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/crimsonstone.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone.json",
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone.json",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone.json",
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneBlock.java",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/crimsonstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_crimsonstone.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_crimsonstone.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedCrimsonstoneBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_crimsonstone.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks.json",
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneBricksBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone_bricks.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone_bricks.json",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone_bricks.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_crimsonstone_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/crimsonstone_bricks_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_crimsonstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_crimsonstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_stairs_inner.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedCrimsonstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/polished_crimsonstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_stairs_outer.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_crimsonstone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedCrimsonstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_slab_top.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_crimsonstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_crimsonstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_crimsonstone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_crimsonstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_wall_inventory.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_crimsonstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_crimsonstone_wall_post.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedCrimsonstoneWallBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_crimsonstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_crimsonstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedCrimsonstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_crimsonstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_crimsonstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_crimsonstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneBricksStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_stairs_inner.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneBricksSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone_bricks_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone_bricks_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_wall_post.json",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_bricks_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone_bricks_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneBricksWallBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone_bricks_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/crimsonstone_bricks_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/crimsonstone_bricks_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneBricksWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_bricks_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_bricks_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/crimsonstone_bricks_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_stairs_inner.json",
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_slab_top.json",
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/crimsonstone_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/crimsonstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/crimsonstone_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/CrimsonstoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/crimsonstone_wall_inventory.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/crimsonstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/crimsonstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CrimsonstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimsonstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/crimsonstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/crimsonstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone.json",
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks.json",
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone_bricks.json",
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone_bricks.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone_bricks.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneBricksBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_dark_basaltstone.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDarkBasaltstoneBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_dark_basaltstone.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_dark_basaltstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/dark_basaltstone_bricks_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_dark_basaltstone_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_stairs_outer.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_stairs_inner.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_slab_full.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_wall_inventory.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/dark_basaltstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/dark_basaltstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/dark_basaltstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_dark_basaltstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_dark_basaltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_dark_basaltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_stairs_inner.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDarkBasaltstoneStairsBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_dark_basaltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_slab_full.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDarkBasaltstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_slab_top.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_dark_basaltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_dark_basaltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_dark_basaltstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_dark_basaltstone_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDarkBasaltstoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/polished_dark_basaltstone_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_dark_basaltstone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_dark_basaltstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_dark_basaltstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDarkBasaltstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_dark_basaltstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_dark_basaltstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_dark_basaltstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone_bricks_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneBricksStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone_bricks_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone_bricks_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneBricksSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone_bricks_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_wall_inventory.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/dark_basaltstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/dark_basaltstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/dark_basaltstone_bricks_wall_post.json",
+          "src/main/java/jr/stoneplus/mod/block/DarkBasaltstoneBricksWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/dark_basaltstone_bricks_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/dark_basaltstone_bricks_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/dark_basaltstone_bricks_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DarkBasaltstoneBricksWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_basaltstone_bricks_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/dark_basaltstone_bricks_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/dark_basaltstone_bricks_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "Deepday",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/deepday.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepday",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/cobbled_deepday.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_deepday.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledDeepdayBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_deepday.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepday",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_deepday.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_deepday.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_deepday.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDeepdayBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/DeepdayBricksBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_bricks.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_bricks.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_bricks.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTiles",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_tiles.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_tiles.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayTilesBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_tiles.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdaySmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_smelting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_deepday_smelting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdayBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_blasting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_deepday_blasting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_deepday_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_bricks_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_tiles_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/deepday_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_stairs_inner.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdaySlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/deepday_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdaySlabBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_slab_top.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/deepday_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_wall_side_tall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_wall_post.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/deepday_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdaySlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdaySlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/deepday_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_stairs_outer.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDeepdayStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/polished_deepday_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_deepday_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_deepday_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdaySlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_slab_top.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_deepday_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_deepday_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_deepday_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDeepdaySlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_wall_side_tall.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedDeepdayWallBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_deepday_wall_post.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_deepday_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdaySlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_deepday_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdaySlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_deepday_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedDeepdayWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepday_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_deepday_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_deepday_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/deepday_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_bricks_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayBricksStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/deepday_bricks_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_bricks_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayBricksSlabBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/deepday_bricks_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayBricksWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_bricks_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_bricks_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayBricksWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_bricks_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_bricks_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/deepday_bricks_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/deepday_tiles_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_tiles_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_tiles_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_stairs_outer.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayTilesStairsBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_slab_full.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayTilesSlabBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_tiles_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_tiles_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_tiles_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_slab_top.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/item/deepday_tiles_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/DeepdayTilesWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/deepday_tiles_wall_side_tall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/deepday_tiles_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/deepday_tiles_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_tiles_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_tiles_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "DeepdayTilesWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepday_tiles_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/deepday_tiles_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/deepday_tiles_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdayStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_deepday_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledDeepdayStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_deepday_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_deepday_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_stairs_inner.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdaySlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/cobbled_deepday_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_deepday_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_deepday_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_slab_top.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledDeepdaySlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdayWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_wall_side_tall.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledDeepdayWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_wall_post.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_deepday_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_deepday_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_deepday_wall_inventory.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdayStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdaySlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdayWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdayStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_deepday_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdaySlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_deepday_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledDeepdayWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepday_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_deepday_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_deepday_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "Froststone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/forge/biome_modifier/froststone_biome_modifier.json",
+          "src/main/java/jr/stoneplus/mod/block/FroststoneBlock.java",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/froststone.json",
+          "src/main/resources/assets/stone_plus/blockstates/froststone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/froststone.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/froststone.json",
+          "src/main/resources/assets/stone_plus/models/item/froststone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/polished_froststone.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedFroststoneBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_froststone.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_froststone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_froststone_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/FroststoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/froststone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/item/froststone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/froststone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/froststone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_stairs_inner.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/froststone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/FroststoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/froststone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/froststone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_slab_full.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/froststone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/blockstates/froststone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_wall_side_tall.json",
+          "src/main/java/jr/stoneplus/mod/block/FroststoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/froststone_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/froststone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/froststone_wall_post.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/froststone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/froststone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/froststone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/froststone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/froststone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/froststone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/froststone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "FroststoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "froststone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/froststone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/froststone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/PolishedFroststoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_froststone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_froststone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_froststone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_stairs_outer.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_froststone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_froststone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedFroststoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_slab_full.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_froststone_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/polished_froststone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_froststone_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_froststone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_froststone_wall_post.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedFroststoneWallBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_froststone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_froststone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedFroststoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_froststone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_froststone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_froststone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "Mudstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/mudstone.json",
+          "src/main/resources/assets/stone_plus/blockstates/mudstone.json",
+          "src/main/java/jr/stoneplus/mod/block/MudstoneBlock.java",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/mudstone.json",
+          "src/main/resources/assets/stone_plus/models/item/mudstone.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/mudstone_biome_modifier.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/CobbledMudstoneBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_mudstone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_mudstone.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_mudstone.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/MudstoneBricksBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone_bricks.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks.json",
+          "src/main/resources/assets/stone_plus/blockstates/mudstone_bricks.json",
+          "src/main/resources/assets/stone_plus/models/item/mudstone_bricks.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneDrops",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_drops",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_smelting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_mudstone_smelting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_mudstone_blasting.json",
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_blasting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/mudstone_bricks_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/mudstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/item/mudstone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/mudstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/MudstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/mudstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/MudstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/mudstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_slab_top.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/mudstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_wall_inventory.json",
+          "src/main/java/jr/stoneplus/mod/block/MudstoneWallBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/blockstates/mudstone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/mudstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/mudstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/mudstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/mudstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_mudstone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_mudstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_mudstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledMudstoneStairsBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/CobbledMudstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_mudstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_mudstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_slab_top.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_mudstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_slab_full.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/item/cobbled_mudstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cobbled_mudstone_wall_post.json",
+          "src/main/java/jr/stoneplus/mod/block/CobbledMudstoneWallBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cobbled_mudstone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/cobbled_mudstone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_mudstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_mudstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CobbledMudstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_mudstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cobbled_mudstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cobbled_mudstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/mudstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_stairs_outer.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/blockstates/mudstone_bricks_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/MudstoneBricksStairsBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_slab_top.json",
+          "src/main/java/jr/stoneplus/mod/block/MudstoneBricksSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/mudstone_bricks_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/mudstone_bricks_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/mudstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/blockstates/mudstone_bricks_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/MudstoneBricksWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_wall_post.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/mudstone_bricks_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/mudstone_bricks_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/mudstone_bricks_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/mudstone_bricks_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "MudstoneBricksWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mudstone_bricks_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/mudstone_bricks_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/mudstone_bricks_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
     }
   ],
   "variable_elements": [],
@@ -1757,6 +5121,81 @@
       "Blocks.DEEPSLATE"
     ],
     "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:MudstoneBricksWall",
+      "~CUSTOM:MudstoneBricksSlab",
+      "~CUSTOM:MudstoneBricksStairs",
+      "~CUSTOM:CobbledMudstoneWall",
+      "~CUSTOM:CobbledMudstoneSlab",
+      "~CUSTOM:CobbledMudstoneStairs",
+      "~CUSTOM:MudstoneWall",
+      "~CUSTOM:MudstoneSlab",
+      "~CUSTOM:MudstoneStairs",
+      "~CUSTOM:MudstoneBricks",
+      "~CUSTOM:CobbledMudstone",
+      "~CUSTOM:Mudstone",
+      "~CUSTOM:PolishedFroststoneWall",
+      "~CUSTOM:PolishedFroststoneSlab",
+      "~CUSTOM:PolishedFroststoneStairs",
+      "~CUSTOM:FroststoneWall",
+      "~CUSTOM:FroststoneSlab",
+      "~CUSTOM:FroststoneStairs",
+      "~CUSTOM:PolishedFroststone",
+      "~CUSTOM:Froststone",
+      "~CUSTOM:CobbledDeepdayWall",
+      "~CUSTOM:CobbledDeepdaySlab",
+      "~CUSTOM:CobbledDeepdayStairs",
+      "~CUSTOM:DeepdayTilesWall",
+      "~CUSTOM:DeepdayTilesStairs",
+      "~CUSTOM:DeepdayBricksWall",
+      "~CUSTOM:DeepdayBricksSlab",
+      "~CUSTOM:DeepdayBricksStairs",
+      "~CUSTOM:PolishedDeepdayWall",
+      "~CUSTOM:PolishedDeepdaySlab",
+      "~CUSTOM:PolishedDeepdayStairs",
+      "~CUSTOM:DeepdayWall",
+      "~CUSTOM:DeepdaySlab",
+      "~CUSTOM:DeepdayStairs",
+      "~CUSTOM:DeepdayTiles",
+      "~CUSTOM:DeepdayBricks",
+      "~CUSTOM:PolishedDeepday",
+      "~CUSTOM:CobbledDeepday",
+      "~CUSTOM:Deepday",
+      "~CUSTOM:DarkBasaltstoneBricksWall",
+      "~CUSTOM:DarkBasaltstoneBricksSlab",
+      "~CUSTOM:DarkBasaltstoneBricksStairs",
+      "~CUSTOM:PolishedDarkBasaltstoneWall",
+      "~CUSTOM:PolishedDarkBasaltstoneSlab",
+      "~CUSTOM:PolishedDarkBasaltstoneStairs",
+      "~CUSTOM:DarkBasaltstoneWall",
+      "~CUSTOM:DarkBasaltstoneSlab",
+      "~CUSTOM:DarkBasaltstoneStairs",
+      "~CUSTOM:PolishedDarkBasaltstone",
+      "~CUSTOM:DarkBasaltstoneBricks",
+      "~CUSTOM:DarkBasaltstone",
+      "~CUSTOM:CrimsonstoneWall",
+      "~CUSTOM:CrimsonstoneSlab",
+      "~CUSTOM:CrimsonstoneStairs",
+      "~CUSTOM:CrimsonstoneBricksWall",
+      "~CUSTOM:CrimsonstoneBricksSlab",
+      "~CUSTOM:CrimsonstoneBricksStairs",
+      "~CUSTOM:PolishedCrimsonstoneWall",
+      "~CUSTOM:PolishedCrimsonstoneSlab",
+      "~CUSTOM:PolishedCrimsonstoneStairs",
+      "~CUSTOM:CrimsonstoneBricks",
+      "~CUSTOM:PolishedCrimsonstone",
+      "~CUSTOM:Crimsonstone",
+      "~CUSTOM:CobbledAshstoneWall",
+      "~CUSTOM:CobbledAshstoneSlab",
+      "~CUSTOM:CobbledAshstoneStairs",
+      "~CUSTOM:AshstoneWall",
+      "~CUSTOM:AshstoneSlab",
+      "~CUSTOM:AshstoneStairs",
+      "~CUSTOM:AshstoneBricksWall",
+      "~CUSTOM:AshstoneBricksSlab",
+      "~CUSTOM:AshstoneBricksStairs",
+      "~CUSTOM:AshstoneBricks",
+      "~CUSTOM:CobbledAshstone",
+      "~CUSTOM:Ashstone",
       "~CUSTOM:PolishedGreenstoneWall",
       "~CUSTOM:PolishedGreenstoneSlab",
       "~CUSTOM:PolishedGreenstoneStairs",
@@ -1796,12 +5235,87 @@
       "~CUSTOM:Shale",
       "~CUSTOM:Scoria",
       "~CUSTOM:Quartzite",
-      "~CUSTOM:Limestone",
       "~CUSTOM:Marble",
+      "~CUSTOM:Limestone",
       "~CUSTOM:Gabbro",
       "~CUSTOM:Basanite"
     ],
     "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:MudstoneBricksWall",
+      "~CUSTOM:MudstoneBricksSlab",
+      "~CUSTOM:MudstoneBricksStairs",
+      "~CUSTOM:CobbledMudstoneWall",
+      "~CUSTOM:CobbledMudstoneSlab",
+      "~CUSTOM:CobbledMudstoneStairs",
+      "~CUSTOM:MudstoneWall",
+      "~CUSTOM:MudstoneSlab",
+      "~CUSTOM:MudstoneStairs",
+      "~CUSTOM:MudstoneBricks",
+      "~CUSTOM:CobbledMudstone",
+      "~CUSTOM:Mudstone",
+      "~CUSTOM:PolishedFroststoneWall",
+      "~CUSTOM:PolishedFroststoneSlab",
+      "~CUSTOM:PolishedFroststoneStairs",
+      "~CUSTOM:FroststoneWall",
+      "~CUSTOM:FroststoneSlab",
+      "~CUSTOM:FroststoneStairs",
+      "~CUSTOM:PolishedFroststone",
+      "~CUSTOM:Froststone",
+      "~CUSTOM:CobbledDeepdayWall",
+      "~CUSTOM:CobbledDeepdaySlab",
+      "~CUSTOM:CobbledDeepdayStairs",
+      "~CUSTOM:DeepdayTilesWall",
+      "~CUSTOM:DeepdayTilesStairs",
+      "~CUSTOM:DeepdayBricksWall",
+      "~CUSTOM:DeepdayBricksSlab",
+      "~CUSTOM:DeepdayBricksStairs",
+      "~CUSTOM:PolishedDeepdayWall",
+      "~CUSTOM:PolishedDeepdaySlab",
+      "~CUSTOM:PolishedDeepdayStairs",
+      "~CUSTOM:DeepdayWall",
+      "~CUSTOM:DeepdaySlab",
+      "~CUSTOM:DeepdayStairs",
+      "~CUSTOM:DeepdayTiles",
+      "~CUSTOM:DeepdayBricks",
+      "~CUSTOM:PolishedDeepday",
+      "~CUSTOM:CobbledDeepday",
+      "~CUSTOM:Deepday",
+      "~CUSTOM:DarkBasaltstoneBricksWall",
+      "~CUSTOM:DarkBasaltstoneBricksSlab",
+      "~CUSTOM:DarkBasaltstoneBricksStairs",
+      "~CUSTOM:PolishedDarkBasaltstoneWall",
+      "~CUSTOM:PolishedDarkBasaltstoneSlab",
+      "~CUSTOM:PolishedDarkBasaltstoneStairs",
+      "~CUSTOM:DarkBasaltstoneWall",
+      "~CUSTOM:DarkBasaltstoneSlab",
+      "~CUSTOM:DarkBasaltstoneStairs",
+      "~CUSTOM:PolishedDarkBasaltstone",
+      "~CUSTOM:DarkBasaltstoneBricks",
+      "~CUSTOM:DarkBasaltstone",
+      "~CUSTOM:CrimsonstoneWall",
+      "~CUSTOM:CrimsonstoneSlab",
+      "~CUSTOM:CrimsonstoneStairs",
+      "~CUSTOM:CrimsonstoneBricksWall",
+      "~CUSTOM:CrimsonstoneBricksSlab",
+      "~CUSTOM:CrimsonstoneBricksStairs",
+      "~CUSTOM:PolishedCrimsonstoneWall",
+      "~CUSTOM:PolishedCrimsonstoneSlab",
+      "~CUSTOM:PolishedCrimsonstoneStairs",
+      "~CUSTOM:CrimsonstoneBricks",
+      "~CUSTOM:PolishedCrimsonstone",
+      "~CUSTOM:Crimsonstone",
+      "~CUSTOM:CobbledAshstoneWall",
+      "~CUSTOM:CobbledAshstoneSlab",
+      "~CUSTOM:CobbledAshstoneStairs",
+      "~CUSTOM:AshstoneWall",
+      "~CUSTOM:AshstoneSlab",
+      "~CUSTOM:AshstoneStairs",
+      "~CUSTOM:AshstoneBricksWall",
+      "~CUSTOM:AshstoneBricksSlab",
+      "~CUSTOM:AshstoneBricksStairs",
+      "~CUSTOM:AshstoneBricks",
+      "~CUSTOM:CobbledAshstone",
+      "~CUSTOM:Ashstone",
       "~CUSTOM:PolishedGreenstoneWall",
       "~CUSTOM:PolishedGreenstoneSlab",
       "~CUSTOM:PolishedGreenstoneStairs",
@@ -1872,6 +5386,25 @@
       "CUSTOM:PolishedGreenstone"
     ],
     "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:MudstoneBricksStairs",
+      "~CUSTOM:CobbledMudstoneStairs",
+      "~CUSTOM:MudstoneStairs",
+      "~CUSTOM:PolishedFroststoneStairs",
+      "~CUSTOM:FroststoneStairs",
+      "~CUSTOM:CobbledDeepdayStairs",
+      "~CUSTOM:DeepdayTilesStairs",
+      "~CUSTOM:DeepdayBricksStairs",
+      "~CUSTOM:PolishedDeepdayStairs",
+      "~CUSTOM:DeepdayStairs",
+      "~CUSTOM:DarkBasaltstoneBricksStairs",
+      "~CUSTOM:PolishedDarkBasaltstoneStairs",
+      "~CUSTOM:DarkBasaltstoneStairs",
+      "~CUSTOM:CrimsonstoneStairs",
+      "~CUSTOM:CrimsonstoneBricksStairs",
+      "~CUSTOM:PolishedCrimsonstoneStairs",
+      "~CUSTOM:CobbledAshstoneStairs",
+      "~CUSTOM:AshstoneStairs",
+      "~CUSTOM:AshstoneBricksStairs",
       "~CUSTOM:PolishedGreenstoneStairs",
       "~CUSTOM:CutTravertineStairs",
       "~CUSTOM:PolishedScoriaStairs",
@@ -1881,6 +5414,25 @@
       "~CUSTOM:PolishedBasaniteStairs"
     ],
     "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:MudstoneBricksSlab",
+      "~CUSTOM:CobbledMudstoneSlab",
+      "~CUSTOM:MudstoneSlab",
+      "~CUSTOM:PolishedFroststoneSlab",
+      "~CUSTOM:FroststoneSlab",
+      "~CUSTOM:CobbledDeepdaySlab",
+      "~CUSTOM:DeepdayTilesSlab",
+      "~CUSTOM:DeepdayBricksSlab",
+      "~CUSTOM:PolishedDeepdaySlab",
+      "~CUSTOM:DeepdaySlab",
+      "~CUSTOM:DarkBasaltstoneBricksSlab",
+      "~CUSTOM:PolishedDarkBasaltstoneSlab",
+      "~CUSTOM:DarkBasaltstoneSlab",
+      "~CUSTOM:CrimsonstoneSlab",
+      "~CUSTOM:CrimsonstoneBricksSlab",
+      "~CUSTOM:PolishedCrimsonstoneSlab",
+      "~CUSTOM:CobbledAshstoneSlab",
+      "~CUSTOM:AshstoneSlab",
+      "~CUSTOM:AshstoneBricksSlab",
       "~CUSTOM:PolishedGreenstoneSlab",
       "~CUSTOM:CutTravertineSlab",
       "~CUSTOM:PolishedScoriaSlab",
@@ -1890,6 +5442,25 @@
       "~CUSTOM:PolishedBasaniteSlab"
     ],
     "BLOCKS:minecraft:walls": [
+      "~CUSTOM:MudstoneBricksWall",
+      "~CUSTOM:CobbledMudstoneWall",
+      "~CUSTOM:MudstoneWall",
+      "~CUSTOM:PolishedFroststoneWall",
+      "~CUSTOM:FroststoneWall",
+      "~CUSTOM:CobbledDeepdayWall",
+      "~CUSTOM:DeepdayTilesWall",
+      "~CUSTOM:DeepdayBricksWall",
+      "~CUSTOM:PolishedDeepdayWall",
+      "~CUSTOM:DeepdayWall",
+      "~CUSTOM:DarkBasaltstoneBricksWall",
+      "~CUSTOM:PolishedDarkBasaltstoneWall",
+      "~CUSTOM:DarkBasaltstoneWall",
+      "~CUSTOM:CrimsonstoneWall",
+      "~CUSTOM:CrimsonstoneBricksWall",
+      "~CUSTOM:PolishedCrimsonstoneWall",
+      "~CUSTOM:CobbledAshstoneWall",
+      "~CUSTOM:AshstoneWall",
+      "~CUSTOM:AshstoneBricksWall",
       "~CUSTOM:PolishedGreenstoneWall",
       "~CUSTOM:CutTravertineWall",
       "~CUSTOM:PolishedScoriaWall",
@@ -1945,15 +5516,91 @@
       "block.stone_plus.cut_travertine_wall": "Cut Travertine Wall",
       "block.stone_plus.polished_greenstone_stairs": "Polished Greenstone Stairs",
       "block.stone_plus.polished_greenstone_slab": "Polished Greenstone Slab",
-      "block.stone_plus.polished_greenstone_wall": "Polished Greenstone Wall"
+      "block.stone_plus.polished_greenstone_wall": "Polished Greenstone Wall",
+      "block.stone_plus.ashstone": "Ashstone",
+      "block.stone_plus.cobbled_ashstone": "Cobbled Ashstone",
+      "block.stone_plus.ashstone_bricks": "Ashstone Bricks",
+      "block.stone_plus.ashstone_bricks_stairs": "Ashstone Bricks Stairs",
+      "block.stone_plus.ashstone_bricks_slab": "Ashstone Bricks Slab",
+      "block.stone_plus.ashstone_bricks_wall": "Ashstone Bricks Wall",
+      "block.stone_plus.ashstone_stairs": "Ashstone Stairs",
+      "block.stone_plus.ashstone_slab": "Ashstone Slab",
+      "block.stone_plus.ashstone_wall": "Ashstone Wall",
+      "block.stone_plus.cobbled_ashstone_stairs": "Cobbled Ashstone Stairs",
+      "block.stone_plus.cobbled_ashstone_slab": "Cobbled Ashstone Slab",
+      "block.stone_plus.cobbled_ashstone_wall": "Cobbled Ashstone Wall",
+      "block.stone_plus.crimsonstone": "Crimsonstone",
+      "block.stone_plus.polished_crimsonstone": "Polished Crimsonstone",
+      "block.stone_plus.crimsonstone_bricks": "Crimsonstone Bricks",
+      "block.stone_plus.polished_crimsonstone_stairs": "Polished Crimsonstone Stairs",
+      "block.stone_plus.polished_crimsonstone_slab": "Polished Crimsonstone Slab",
+      "block.stone_plus.polished_crimsonstone_wall": "Polished Crimsonstone Wall",
+      "block.stone_plus.crimsonstone_bricks_stairs": "Crimsonstone Bricks Stairs",
+      "block.stone_plus.crimsonstone_bricks_slab": "Crimsonstone Bricks Slab",
+      "block.stone_plus.crimsonstone_bricks_wall": "Crimsonstone Bricks Wall",
+      "block.stone_plus.crimsonstone_stairs": "Crimsonstone Stairs",
+      "block.stone_plus.crimsonstone_slab": "Crimsonstone Slab",
+      "block.stone_plus.crimsonstone_wall": "Crimsonstone Wall",
+      "block.stone_plus.dark_basaltstone": "Dark Basaltstone",
+      "block.stone_plus.dark_basaltstone_bricks": "Dark Basaltstone Bricks",
+      "block.stone_plus.polished_dark_basaltstone": "Polished Dark Basaltstone",
+      "block.stone_plus.dark_basaltstone_stairs": "Dark Basaltstone Stairs",
+      "block.stone_plus.dark_basaltstone_slab": "Dark Basaltstone Slab",
+      "block.stone_plus.dark_basaltstone_wall": "Dark Basaltstone Wall",
+      "block.stone_plus.polished_dark_basaltstone_stairs": "Polished Dark Basaltstone Stairs",
+      "block.stone_plus.polished_dark_basaltstone_slab": "Polished Dark Basaltstone Slab",
+      "block.stone_plus.polished_dark_basaltstone_wall": "Polished Dark Basaltstone Wall",
+      "block.stone_plus.dark_basaltstone_bricks_stairs": "Dark Basaltstone Bricks Stairs",
+      "block.stone_plus.dark_basaltstone_bricks_slab": "Dark Basaltstone Bricks Slab",
+      "block.stone_plus.dark_basaltstone_bricks_wall": "Dark Basaltstone Bricks Wall",
+      "block.stone_plus.deepday": "Deepday",
+      "block.stone_plus.cobbled_deepday": "Cobbled Deepday",
+      "block.stone_plus.polished_deepday": "Polished Deepday",
+      "block.stone_plus.deepday_bricks": "Deepday Bricks",
+      "block.stone_plus.deepday_tiles": "Deepday Tiles",
+      "block.stone_plus.deepday_stairs": "Deepday Stairs",
+      "block.stone_plus.deepday_slab": "Deepday Slab",
+      "block.stone_plus.deepday_wall": "Deepday Wall",
+      "block.stone_plus.polished_deepday_stairs": "Polished Deepday Stairs",
+      "block.stone_plus.polished_deepday_slab": "Polished Deepday Slab",
+      "block.stone_plus.polished_deepday_wall": "Polished Deepday Wall",
+      "block.stone_plus.deepday_bricks_stairs": "Deepday Bricks Stairs",
+      "block.stone_plus.deepday_bricks_slab": "Deepday Bricks Slab",
+      "block.stone_plus.deepday_bricks_wall": "Deepday Bricks Wall",
+      "block.stone_plus.deepday_tiles_stairs": "Deepday Tiles Stairs",
+      "block.stone_plus.deepday_tiles_slab": "Deepday Tiles Slab",
+      "block.stone_plus.deepday_tiles_wall": "Deepday Tiles Wall",
+      "block.stone_plus.cobbled_deepday_stairs": "Cobbled Deepday Stairs",
+      "block.stone_plus.cobbled_deepday_slab": "Cobbled Deepday Slab",
+      "block.stone_plus.cobbled_deepday_wall": "Cobbled Deepday Wall",
+      "block.stone_plus.froststone": "Froststone",
+      "block.stone_plus.polished_froststone": "Polished Froststone",
+      "block.stone_plus.froststone_stairs": "Froststone Stairs",
+      "block.stone_plus.froststone_slab": "Froststone Slab",
+      "block.stone_plus.froststone_wall": "Froststone Wall",
+      "block.stone_plus.polished_froststone_stairs": "Polished Froststone Stairs",
+      "block.stone_plus.polished_froststone_slab": "Polished Froststone Slab",
+      "block.stone_plus.polished_froststone_wall": "Polished Froststone Wall",
+      "block.stone_plus.mudstone": "Mudstone",
+      "block.stone_plus.cobbled_mudstone": "Cobbled Mudstone",
+      "block.stone_plus.mudstone_bricks": "Mudstone Bricks",
+      "block.stone_plus.mudstone_stairs": "Mudstone Stairs",
+      "block.stone_plus.mudstone_slab": "Mudstone Slab",
+      "block.stone_plus.mudstone_wall": "Mudstone Wall",
+      "block.stone_plus.cobbled_mudstone_stairs": "Cobbled Mudstone Stairs",
+      "block.stone_plus.cobbled_mudstone_slab": "Cobbled Mudstone Slab",
+      "block.stone_plus.cobbled_mudstone_wall": "Cobbled Mudstone Wall",
+      "block.stone_plus.mudstone_bricks_stairs": "Mudstone Bricks Stairs",
+      "block.stone_plus.mudstone_bricks_slab": "Mudstone Bricks Slab",
+      "block.stone_plus.mudstone_bricks_wall": "Mudstone Bricks Wall"
     }
   },
   "metadata": {
     "files": [
-      "src/main/resources/pack.mcmeta",
       "src/main/resources/META-INF/mods.toml",
-      "src/main/java/jr/stoneplus/mod/StonePlusMod.java",
       "src/main/java/jr/stoneplus/mod/init/StonePlusModTabs.java",
+      "src/main/java/jr/stoneplus/mod/StonePlusMod.java",
+      "src/main/resources/pack.mcmeta",
       "src/main/java/jr/stoneplus/mod/init/StonePlusModBlocks.java",
       "src/main/java/jr/stoneplus/mod/init/StonePlusModItems.java"
     ]

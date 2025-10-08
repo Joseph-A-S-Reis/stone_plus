@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkBasaltstone"
+      },
+      {
+        "value": "CUSTOM:DarkBasaltstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkBasaltstone"
+      },
+      {
+        "value": "CUSTOM:DarkBasaltstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedDarkBasaltstone"
+    },
+    "name": "polished_dark_basaltstone_crafting",
+    "namespace": "mod"
+  }
+}

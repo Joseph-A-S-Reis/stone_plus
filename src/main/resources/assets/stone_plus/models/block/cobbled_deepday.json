@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/cobbled_deepday",
+    "up": "stone_plus:block/cobbled_deepday",
+    "north": "stone_plus:block/cobbled_deepday",
+    "east": "stone_plus:block/cobbled_deepday",
+    "south": "stone_plus:block/cobbled_deepday",
+    "west": "stone_plus:block/cobbled_deepday",
+    "particle": "stone_plus:block/cobbled_deepday"
+  },
+  "render_type": "solid"
+}

@@ -1,12 +1,31 @@
 {
   "replace": false,
   "values": [
+    "stone_plus:ashstone_bricks_slab",
+    "stone_plus:crimsonstone_bricks_slab",
+    "stone_plus:cobbled_ashstone_slab",
+    "stone_plus:ashstone_slab",
+    "stone_plus:mudstone_bricks_slab",
+    "stone_plus:cobbled_mudstone_slab",
+    "stone_plus:cobbled_deepday_slab",
+    "stone_plus:deepday_slab",
+    "stone_plus:polished_basanite_slab",
+    "stone_plus:dark_basaltstone_slab",
+    "stone_plus:polished_dark_basaltstone_slab",
     "stone_plus:polished_greenstone_slab",
+    "stone_plus:polished_crimsonstone_slab",
     "stone_plus:polished_limestone_slab",
     "stone_plus:polished_marble_slab",
+    "stone_plus:deepday_tiles_slab",
+    "stone_plus:froststone_slab",
+    "stone_plus:mudstone_slab",
+    "stone_plus:polished_froststone_slab",
+    "stone_plus:polished_deepday_slab",
+    "stone_plus:deepday_bricks_slab",
+    "stone_plus:dark_basaltstone_bricks_slab",
     "stone_plus:cut_travertine_slab",
-    "stone_plus:polished_basanite_slab",
     "stone_plus:polished_scoria_slab",
+    "stone_plus:crimsonstone_slab",
     "stone_plus:polished_quartzite_slab"
   ]
 }

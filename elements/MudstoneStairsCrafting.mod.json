@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MudstoneStairs"
+    },
+    "name": "mudstone_stairs_crafting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "stone_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:CobbledMudstone"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.2,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:CobbledMudstone"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Mudstone"
+    },
+    "name": "cobbled_mudstone_smelting",
+    "namespace": "mod"
+  }
+}

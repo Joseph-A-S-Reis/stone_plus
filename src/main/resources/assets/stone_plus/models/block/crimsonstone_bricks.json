@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/crimsonstone_bricks",
+    "up": "stone_plus:block/crimsonstone_bricks",
+    "north": "stone_plus:block/crimsonstone_bricks",
+    "east": "stone_plus:block/crimsonstone_bricks",
+    "south": "stone_plus:block/crimsonstone_bricks",
+    "west": "stone_plus:block/crimsonstone_bricks",
+    "particle": "stone_plus:block/crimsonstone_bricks"
+  },
+  "render_type": "solid"
+}

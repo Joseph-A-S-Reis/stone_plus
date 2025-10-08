@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "stone_plus:block/polished_froststone",
+    "bottom": "stone_plus:block/polished_froststone",
+    "top": "stone_plus:block/polished_froststone",
+    "side": "stone_plus:block/polished_froststone"
+  },
+  "render_type": "solid"
+}

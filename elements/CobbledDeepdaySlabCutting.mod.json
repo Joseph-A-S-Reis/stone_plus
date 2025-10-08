@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "stone_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:CobbledDeepday"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:CobbledDeepday"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:CobbledDeepdaySlab"
+    },
+    "name": "cobbled_deepday_slab_cutting",
+    "namespace": "mod"
+  }
+}

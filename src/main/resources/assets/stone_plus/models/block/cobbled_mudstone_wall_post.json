@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "stone_plus:block/cobbled_mudstone",
+    "particle": "stone_plus:block/cobbled_mudstone"
+  },
+  "render_type": "solid"
+}

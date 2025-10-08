@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "stone_plus:block/cobbled_mudstone",
+    "bottom": "stone_plus:block/cobbled_mudstone",
+    "top": "stone_plus:block/cobbled_mudstone",
+    "side": "stone_plus:block/cobbled_mudstone"
+  },
+  "render_type": "solid"
+}

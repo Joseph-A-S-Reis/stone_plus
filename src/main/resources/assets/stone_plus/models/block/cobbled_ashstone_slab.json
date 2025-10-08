@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "stone_plus:block/cobbled_ashstone",
+    "bottom": "stone_plus:block/cobbled_ashstone",
+    "top": "stone_plus:block/cobbled_ashstone",
+    "side": "stone_plus:block/cobbled_ashstone"
+  },
+  "render_type": "solid"
+}

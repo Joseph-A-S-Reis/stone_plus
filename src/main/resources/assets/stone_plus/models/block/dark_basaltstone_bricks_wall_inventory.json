@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "stone_plus:block/dark_basaltstone_bricks",
+    "particle": "stone_plus:block/dark_basaltstone_bricks"
+  },
+  "render_type": "solid"
+}

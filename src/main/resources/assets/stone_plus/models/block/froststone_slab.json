@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "stone_plus:block/froststone",
+    "bottom": "stone_plus:block/froststone",
+    "top": "stone_plus:block/froststone",
+    "side": "stone_plus:block/froststone"
+  },
+  "render_type": "solid"
+}

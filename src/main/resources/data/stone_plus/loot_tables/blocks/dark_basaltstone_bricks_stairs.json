@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "stone_plus:blocks/dark_basaltstone_bricks_stairs",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "stone_plus:dark_basaltstone_bricks_stairs"
+        }
+      ]
+    }
+  ]
+}

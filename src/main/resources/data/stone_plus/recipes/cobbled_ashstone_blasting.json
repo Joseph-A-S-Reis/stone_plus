@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "stone_plus",
+  "category": "misc",
+  "experience": 0.2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "stone_plus:cobbled_ashstone"
+  },
+  "result": "stone_plus:ashstone"
+}

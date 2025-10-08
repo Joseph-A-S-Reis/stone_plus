@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/polished_crimsonstone",
+    "up": "stone_plus:block/polished_crimsonstone",
+    "north": "stone_plus:block/polished_crimsonstone",
+    "east": "stone_plus:block/polished_crimsonstone",
+    "south": "stone_plus:block/polished_crimsonstone",
+    "west": "stone_plus:block/polished_crimsonstone",
+    "particle": "stone_plus:block/polished_crimsonstone"
+  },
+  "render_type": "solid"
+}
