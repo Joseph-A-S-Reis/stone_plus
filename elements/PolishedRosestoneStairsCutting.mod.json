@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "stone_plus",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:PolishedRosestone"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:PolishedRosestone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:PolishedRosestoneStairs"
+    },
+    "name": "polished_rosestone_stairs_cutting",
+    "namespace": "mod"
+  }
+}

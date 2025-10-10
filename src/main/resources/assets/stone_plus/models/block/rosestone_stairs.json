@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "stone_plus:block/rosestone",
+    "bottom": "stone_plus:block/rosestone",
+    "top": "stone_plus:block/rosestone",
+    "side": "stone_plus:block/rosestone"
+  },
+  "render_type": "solid"
+}

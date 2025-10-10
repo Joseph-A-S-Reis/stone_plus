@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "snowy_plains",
+    "sunflower_plains"
+  ],
+  "features": "stone_plus:rosestone",
+  "step": "underground_ores"
+}

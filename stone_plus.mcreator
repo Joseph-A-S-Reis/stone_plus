@@ -5111,6 +5111,1031 @@
         ]
       },
       "path": "~/0.0.2"
+    },
+    {
+      "name": "Rosestone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/rosestone.json",
+          "src/main/java/jr/stoneplus/mod/block/RosestoneBlock.java",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/rosestone.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/rosestone.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/rosestone_biome_modifier.json",
+          "src/main/resources/assets/stone_plus/blockstates/rosestone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/rosestone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/polished_rosestone.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedRosestoneBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/polished_rosestone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_rosestone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/rosestone_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/rosestone_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/rosestone_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/rosestone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_stairs_outer.json",
+          "src/main/java/jr/stoneplus/mod/block/RosestoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/rosestone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/rosestone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/rosestone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_stairs_inner.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/rosestone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/rosestone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/rosestone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/RosestoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_slab_full.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_wall",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/RosestoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_wall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/rosestone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/rosestone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/rosestone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/item/rosestone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/rosestone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/rosestone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/rosestone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/rosestone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/rosestone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/rosestone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/rosestone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "RosestoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosestone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/rosestone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/rosestone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_rosestone_stairs.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedRosestoneStairsBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_rosestone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_rosestone_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_slab_full.json",
+          "src/main/resources/assets/stone_plus/blockstates/polished_rosestone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_rosestone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_rosestone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_slab_top.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedRosestoneSlabBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneWal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_wal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_wal_side_tall.json",
+          "src/main/java/jr/stoneplus/mod/block/PolishedRosestoneWalBlock.java",
+          "src/main/resources/assets/stone_plus/blockstates/polished_rosestone_wal.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_wal_post.json",
+          "src/main/resources/assets/stone_plus/models/item/polished_rosestone_wal.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/polished_rosestone_wal.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_wal.json",
+          "src/main/resources/assets/stone_plus/models/block/polished_rosestone_wal_inventory.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_rosestone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_rosestone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/polished_rosestone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_rosestone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_rosestone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_rosestone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_rosestone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "PolishedRosestoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_rosestone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/polished_rosestone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/polished_rosestone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "Siltstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/siltstone.json",
+          "src/main/resources/assets/stone_plus/blockstates/siltstone.json",
+          "src/main/resources/assets/stone_plus/models/item/siltstone.json",
+          "src/main/java/jr/stoneplus/mod/block/SiltstoneBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/siltstone.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/siltstone_biome_modifier.json",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/siltstone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/siltstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/cut_siltstone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_siltstone.json",
+          "src/main/resources/assets/stone_plus/models/item/cut_siltstone.json",
+          "src/main/java/jr/stoneplus/mod/block/CutSiltstoneBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_siltstone_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/SiltstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_stairs_inner.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/siltstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/siltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/siltstone_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/siltstone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/siltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_slab_full.json",
+          "src/main/java/jr/stoneplus/mod/block/SiltstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/siltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/siltstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/siltstone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/siltstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_wall_side_tall.json",
+          "src/main/java/jr/stoneplus/mod/block/SiltstoneWallBlock.java",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/siltstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/siltstone_wall_inventory.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/siltstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/siltstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/siltstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/siltstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/siltstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/siltstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/siltstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SiltstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siltstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/siltstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/siltstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/CutSiltstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_stairs_inner.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_siltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/blockstates/cut_siltstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/cut_siltstone_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_siltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_slab_top.json",
+          "src/main/resources/assets/stone_plus/blockstates/cut_siltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/item/cut_siltstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_slab_full.json",
+          "src/main/java/jr/stoneplus/mod/block/CutSiltstoneSlabBlock.java"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/cut_siltstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/blockstates/cut_siltstone_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/CutSiltstoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_wall_side_tall.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_siltstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_siltstone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_siltstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_siltstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSiltstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_siltstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_siltstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_siltstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "Sunstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/SunstoneBlock.java",
+          "src/main/resources/data/stone_plus/worldgen/configured_feature/sunstone.json",
+          "src/main/resources/assets/stone_plus/blockstates/sunstone.json",
+          "src/main/resources/data/stone_plus/worldgen/placed_feature/sunstone.json",
+          "src/main/resources/assets/stone_plus/models/item/sunstone.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/sunstone.json",
+          "src/main/resources/data/stone_plus/forge/biome_modifier/sunstone_biome_modifier.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_sunstone.json",
+          "src/main/resources/assets/stone_plus/blockstates/cut_sunstone.json",
+          "src/main/java/jr/stoneplus/mod/block/CutSunstoneBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/cut_sunstone.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_sunstone_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/SunstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_stairs.json",
+          "src/main/resources/assets/stone_plus/blockstates/sunstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/item/sunstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/sunstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_stairs_inner.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/jr/stoneplus/mod/block/SunstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_slab_full.json",
+          "src/main/resources/assets/stone_plus/models/item/sunstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/sunstone_slab.json",
+          "src/main/resources/assets/stone_plus/blockstates/sunstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_slab_top.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/sunstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/sunstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/loot_tables/blocks/sunstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/sunstone_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/SunstoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_wall.json",
+          "src/main/resources/assets/stone_plus/blockstates/sunstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_wall_inventory.json",
+          "src/main/resources/assets/stone_plus/models/block/sunstone_wall_side_tall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/sunstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/sunstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/sunstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/sunstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/sunstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "SunstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/sunstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_stairs_inner.json",
+          "src/main/java/jr/stoneplus/mod/block/CutSunstoneStairsBlock.java",
+          "src/main/resources/assets/stone_plus/models/item/cut_sunstone_stairs.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_stairs_outer.json",
+          "src/main/resources/assets/stone_plus/blockstates/cut_sunstone_stairs.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_sunstone_stairs.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/models/item/cut_sunstone_slab.json",
+          "src/main/java/jr/stoneplus/mod/block/CutSunstoneSlabBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_slab.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_sunstone_slab.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_slab_top.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_slab_full.json",
+          "src/main/resources/assets/stone_plus/blockstates/cut_sunstone_slab.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/stone_plus/blockstates/cut_sunstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_wall_inventory.json",
+          "src/main/resources/data/stone_plus/loot_tables/blocks/cut_sunstone_wall.json",
+          "src/main/resources/assets/stone_plus/models/item/cut_sunstone_wall.json",
+          "src/main/java/jr/stoneplus/mod/block/CutSunstoneWallBlock.java",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_wall_side_tall.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_wall_post.json",
+          "src/main/resources/assets/stone_plus/models/block/cut_sunstone_wall.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneStairsCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_stairs_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_stairs_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneSlabCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_slab_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_slab_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneWallCrafting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_wall_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_wall_crafting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneStairsCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_stairs_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_sunstone_stairs_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_stairs_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneSlabCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_slab_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_sunstone_slab_cutting.json",
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_slab_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
+    },
+    {
+      "name": "CutSunstoneWallCutting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sunstone_wall_cutting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/stone_plus/recipes/cut_sunstone_wall_cutting.json",
+          "src/main/resources/data/stone_plus/advancements/recipes/cut_sunstone_wall_cutting.json"
+        ]
+      },
+      "path": "~/0.0.2"
     }
   ],
   "variable_elements": [],
@@ -5121,6 +6146,30 @@
       "Blocks.DEEPSLATE"
     ],
     "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:CutSunstoneWall",
+      "~CUSTOM:CutSunstoneSlab",
+      "~CUSTOM:CutSunstoneStairs",
+      "~CUSTOM:SunstoneWall",
+      "~CUSTOM:SunstoneSlab",
+      "~CUSTOM:SunstoneStairs",
+      "~CUSTOM:CutSunstone",
+      "~CUSTOM:Sunstone",
+      "~CUSTOM:CutSiltstoneWall",
+      "~CUSTOM:CutSiltstoneSlab",
+      "~CUSTOM:CutSiltstoneStairs",
+      "~CUSTOM:SiltstoneWall",
+      "~CUSTOM:SiltstoneSlab",
+      "~CUSTOM:SiltstoneStairs",
+      "~CUSTOM:CutSiltstone",
+      "~CUSTOM:Siltstone",
+      "~CUSTOM:PolishedRosestoneWal",
+      "~CUSTOM:PolishedRosestoneSlab",
+      "~CUSTOM:PolishedRosestoneStairs",
+      "~CUSTOM:RosestoneWall",
+      "~CUSTOM:RosestoneSlab",
+      "~CUSTOM:RosestoneStairs",
+      "~CUSTOM:PolishedRosestone",
+      "~CUSTOM:Rosestone",
       "~CUSTOM:MudstoneBricksWall",
       "~CUSTOM:MudstoneBricksSlab",
       "~CUSTOM:MudstoneBricksStairs",
@@ -5241,6 +6290,30 @@
       "~CUSTOM:Basanite"
     ],
     "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:CutSunstoneWall",
+      "~CUSTOM:CutSunstoneSlab",
+      "~CUSTOM:CutSunstoneStairs",
+      "~CUSTOM:SunstoneWall",
+      "~CUSTOM:SunstoneSlab",
+      "~CUSTOM:SunstoneStairs",
+      "~CUSTOM:CutSunstone",
+      "~CUSTOM:Sunstone",
+      "~CUSTOM:CutSiltstoneWall",
+      "~CUSTOM:CutSiltstoneSlab",
+      "~CUSTOM:CutSiltstoneStairs",
+      "~CUSTOM:SiltstoneWall",
+      "~CUSTOM:SiltstoneSlab",
+      "~CUSTOM:SiltstoneStairs",
+      "~CUSTOM:CutSiltstone",
+      "~CUSTOM:Siltstone",
+      "~CUSTOM:PolishedRosestoneWal",
+      "~CUSTOM:PolishedRosestoneSlab",
+      "~CUSTOM:PolishedRosestoneStairs",
+      "~CUSTOM:RosestoneWall",
+      "~CUSTOM:RosestoneSlab",
+      "~CUSTOM:RosestoneStairs",
+      "~CUSTOM:PolishedRosestone",
+      "~CUSTOM:Rosestone",
       "~CUSTOM:MudstoneBricksWall",
       "~CUSTOM:MudstoneBricksSlab",
       "~CUSTOM:MudstoneBricksStairs",
@@ -5386,6 +6459,12 @@
       "CUSTOM:PolishedGreenstone"
     ],
     "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:CutSunstoneStairs",
+      "~CUSTOM:SunstoneStairs",
+      "~CUSTOM:CutSiltstoneStairs",
+      "~CUSTOM:SiltstoneStairs",
+      "~CUSTOM:PolishedRosestoneStairs",
+      "~CUSTOM:RosestoneStairs",
       "~CUSTOM:MudstoneBricksStairs",
       "~CUSTOM:CobbledMudstoneStairs",
       "~CUSTOM:MudstoneStairs",
@@ -5414,6 +6493,12 @@
       "~CUSTOM:PolishedBasaniteStairs"
     ],
     "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:CutSunstoneSlab",
+      "~CUSTOM:SunstoneSlab",
+      "~CUSTOM:CutSiltstoneSlab",
+      "~CUSTOM:SiltstoneSlab",
+      "~CUSTOM:PolishedRosestoneSlab",
+      "~CUSTOM:RosestoneSlab",
       "~CUSTOM:MudstoneBricksSlab",
       "~CUSTOM:CobbledMudstoneSlab",
       "~CUSTOM:MudstoneSlab",
@@ -5442,6 +6527,12 @@
       "~CUSTOM:PolishedBasaniteSlab"
     ],
     "BLOCKS:minecraft:walls": [
+      "~CUSTOM:CutSunstoneWall",
+      "~CUSTOM:SunstoneWall",
+      "~CUSTOM:CutSiltstoneWall",
+      "~CUSTOM:SiltstoneWall",
+      "~CUSTOM:PolishedRosestoneWal",
+      "~CUSTOM:RosestoneWall",
       "~CUSTOM:MudstoneBricksWall",
       "~CUSTOM:CobbledMudstoneWall",
       "~CUSTOM:MudstoneWall",
@@ -5592,7 +6683,31 @@
       "block.stone_plus.cobbled_mudstone_wall": "Cobbled Mudstone Wall",
       "block.stone_plus.mudstone_bricks_stairs": "Mudstone Bricks Stairs",
       "block.stone_plus.mudstone_bricks_slab": "Mudstone Bricks Slab",
-      "block.stone_plus.mudstone_bricks_wall": "Mudstone Bricks Wall"
+      "block.stone_plus.mudstone_bricks_wall": "Mudstone Bricks Wall",
+      "block.stone_plus.rosestone": "Rosestone",
+      "block.stone_plus.polished_rosestone": "Polished Rosestone",
+      "block.stone_plus.rosestone_stairs": "Rosestone Stairs",
+      "block.stone_plus.rosestone_slab": "Rosestone Slab",
+      "block.stone_plus.rosestone_wall": "Rosestone Wall",
+      "block.stone_plus.polished_rosestone_stairs": "Polished Rosestone Stairs",
+      "block.stone_plus.polished_rosestone_slab": "Polished Rosestone Slab",
+      "block.stone_plus.polished_rosestone_wal": "Polished Rosestone Wal",
+      "block.stone_plus.siltstone": "Siltstone",
+      "block.stone_plus.cut_siltstone": "Cut Siltstone",
+      "block.stone_plus.siltstone_stairs": "Siltstone Stairs",
+      "block.stone_plus.siltstone_slab": "Siltstone Slab",
+      "block.stone_plus.siltstone_wall": "Siltstone Wall",
+      "block.stone_plus.cut_siltstone_stairs": "Cut Siltstone Stairs",
+      "block.stone_plus.cut_siltstone_slab": "Cut Siltstone Slab",
+      "block.stone_plus.cut_siltstone_wall": "Cut Siltstone Wall",
+      "block.stone_plus.sunstone": "Sunstone",
+      "block.stone_plus.cut_sunstone": "Cut Sunstone",
+      "block.stone_plus.sunstone_stairs": "Sunstone Stairs",
+      "block.stone_plus.sunstone_slab": "Sunstone Slab",
+      "block.stone_plus.sunstone_wall": "Sunstone Wall",
+      "block.stone_plus.cut_sunstone_stairs": "Cut Sunstone Stairs",
+      "block.stone_plus.cut_sunstone_slab": "Cut Sunstone Slab",
+      "block.stone_plus.cut_sunstone_wall": "Cut Sunstone Wall"
     }
   },
   "metadata": {

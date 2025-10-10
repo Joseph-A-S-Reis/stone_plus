@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/sunstone_bottom",
+    "up": "stone_plus:block/sunstone_top",
+    "north": "stone_plus:block/cut_sunstone",
+    "east": "stone_plus:block/cut_sunstone",
+    "south": "stone_plus:block/cut_sunstone",
+    "west": "stone_plus:block/cut_sunstone",
+    "particle": "stone_plus:block/sunstone_bottom"
+  },
+  "render_type": "solid"
+}

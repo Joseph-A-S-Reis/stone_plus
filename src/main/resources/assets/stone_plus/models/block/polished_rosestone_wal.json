@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "stone_plus:block/polished_rosestone",
+    "particle": "stone_plus:block/polished_rosestone"
+  },
+  "render_type": "solid"
+}

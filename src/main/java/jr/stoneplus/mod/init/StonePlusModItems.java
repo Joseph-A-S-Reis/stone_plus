@@ -134,6 +134,30 @@ public class StonePlusModItems {
 	public static final RegistryObject<Item> MUDSTONE_BRICKS_STAIRS = block(StonePlusModBlocks.MUDSTONE_BRICKS_STAIRS);
 	public static final RegistryObject<Item> MUDSTONE_BRICKS_SLAB = block(StonePlusModBlocks.MUDSTONE_BRICKS_SLAB);
 	public static final RegistryObject<Item> MUDSTONE_BRICKS_WALL = block(StonePlusModBlocks.MUDSTONE_BRICKS_WALL);
+	public static final RegistryObject<Item> ROSESTONE = block(StonePlusModBlocks.ROSESTONE);
+	public static final RegistryObject<Item> POLISHED_ROSESTONE = block(StonePlusModBlocks.POLISHED_ROSESTONE);
+	public static final RegistryObject<Item> ROSESTONE_STAIRS = block(StonePlusModBlocks.ROSESTONE_STAIRS);
+	public static final RegistryObject<Item> ROSESTONE_SLAB = block(StonePlusModBlocks.ROSESTONE_SLAB);
+	public static final RegistryObject<Item> ROSESTONE_WALL = block(StonePlusModBlocks.ROSESTONE_WALL);
+	public static final RegistryObject<Item> POLISHED_ROSESTONE_STAIRS = block(StonePlusModBlocks.POLISHED_ROSESTONE_STAIRS);
+	public static final RegistryObject<Item> POLISHED_ROSESTONE_SLAB = block(StonePlusModBlocks.POLISHED_ROSESTONE_SLAB);
+	public static final RegistryObject<Item> POLISHED_ROSESTONE_WAL = block(StonePlusModBlocks.POLISHED_ROSESTONE_WAL);
+	public static final RegistryObject<Item> SILTSTONE = block(StonePlusModBlocks.SILTSTONE);
+	public static final RegistryObject<Item> CUT_SILTSTONE = block(StonePlusModBlocks.CUT_SILTSTONE);
+	public static final RegistryObject<Item> SILTSTONE_STAIRS = block(StonePlusModBlocks.SILTSTONE_STAIRS);
+	public static final RegistryObject<Item> SILTSTONE_SLAB = block(StonePlusModBlocks.SILTSTONE_SLAB);
+	public static final RegistryObject<Item> SILTSTONE_WALL = block(StonePlusModBlocks.SILTSTONE_WALL);
+	public static final RegistryObject<Item> CUT_SILTSTONE_STAIRS = block(StonePlusModBlocks.CUT_SILTSTONE_STAIRS);
+	public static final RegistryObject<Item> CUT_SILTSTONE_SLAB = block(StonePlusModBlocks.CUT_SILTSTONE_SLAB);
+	public static final RegistryObject<Item> CUT_SILTSTONE_WALL = block(StonePlusModBlocks.CUT_SILTSTONE_WALL);
+	public static final RegistryObject<Item> SUNSTONE = block(StonePlusModBlocks.SUNSTONE);
+	public static final RegistryObject<Item> CUT_SUNSTONE = block(StonePlusModBlocks.CUT_SUNSTONE);
+	public static final RegistryObject<Item> SUNSTONE_STAIRS = block(StonePlusModBlocks.SUNSTONE_STAIRS);
+	public static final RegistryObject<Item> SUNSTONE_SLAB = block(StonePlusModBlocks.SUNSTONE_SLAB);
+	public static final RegistryObject<Item> SUNSTONE_WALL = block(StonePlusModBlocks.SUNSTONE_WALL);
+	public static final RegistryObject<Item> CUT_SUNSTONE_STAIRS = block(StonePlusModBlocks.CUT_SUNSTONE_STAIRS);
+	public static final RegistryObject<Item> CUT_SUNSTONE_SLAB = block(StonePlusModBlocks.CUT_SUNSTONE_SLAB);
+	public static final RegistryObject<Item> CUT_SUNSTONE_WALL = block(StonePlusModBlocks.CUT_SUNSTONE_WALL);
 
 	// Start of user code block custom items
 	// End of user code block custom items

@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rosestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rosestone"
+      },
+      {
+        "value": "CUSTOM:Rosestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rosestone"
+      },
+      {
+        "value": "CUSTOM:Rosestone"
+      },
+      {
+        "value": "CUSTOM:Rosestone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RosestoneStairs"
+    },
+    "name": "rosestone_stairs_crafting",
+    "namespace": "mod"
+  }
+}

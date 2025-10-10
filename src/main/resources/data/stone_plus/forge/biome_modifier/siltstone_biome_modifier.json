@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "stone_plus:siltstone",
+  "step": "underground_ores"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "stone_plus:sunstone",
+  "step": "underground_ores"
+}

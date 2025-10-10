@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stone_plus:block/rosestone_slab"
+    },
+    "type=top": {
+      "model": "stone_plus:block/rosestone_slab_top"
+    },
+    "type=double": {
+      "model": "stone_plus:block/rosestone_slab_full"
+    }
+  }
+}

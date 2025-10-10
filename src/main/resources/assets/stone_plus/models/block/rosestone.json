@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stone_plus:block/rosestone",
+    "up": "stone_plus:block/rosestone",
+    "north": "stone_plus:block/rosestone",
+    "east": "stone_plus:block/rosestone",
+    "south": "stone_plus:block/rosestone",
+    "west": "stone_plus:block/rosestone",
+    "particle": "stone_plus:block/rosestone"
+  },
+  "render_type": "solid"
+}

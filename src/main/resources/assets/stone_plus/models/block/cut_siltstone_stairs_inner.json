@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "stone_plus:block/siltstone_bottom",
+    "bottom": "stone_plus:block/siltstone_bottom",
+    "top": "stone_plus:block/siltstone_top",
+    "side": "stone_plus:block/cut_siltstone"
+  },
+  "render_type": "solid"
+}
