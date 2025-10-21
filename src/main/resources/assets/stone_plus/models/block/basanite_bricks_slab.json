@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "stone_plus:block/basanite_bricks",
+    "bottom": "stone_plus:block/basanite_bricks",
+    "top": "stone_plus:block/basanite_bricks",
+    "side": "stone_plus:block/basanite_bricks"
+  },
+  "render_type": "solid"
+}

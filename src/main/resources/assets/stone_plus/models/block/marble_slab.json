@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "stone_plus:block/marble",
+    "bottom": "stone_plus:block/marble",
+    "top": "stone_plus:block/marble",
+    "side": "stone_plus:block/marble"
+  },
+  "render_type": "solid"
+}

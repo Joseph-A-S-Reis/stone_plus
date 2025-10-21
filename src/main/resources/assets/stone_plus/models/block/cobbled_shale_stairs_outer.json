@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "stone_plus:block/cobbled_shale",
+    "bottom": "stone_plus:block/cobbled_shale",
+    "top": "stone_plus:block/cobbled_shale",
+    "side": "stone_plus:block/cobbled_shale"
+  },
+  "render_type": "solid"
+}

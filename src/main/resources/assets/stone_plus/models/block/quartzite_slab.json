@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "stone_plus:block/quartzite",
+    "bottom": "stone_plus:block/quartzite",
+    "top": "stone_plus:block/quartzite",
+    "side": "stone_plus:block/quartzite"
+  },
+  "render_type": "solid"
+}

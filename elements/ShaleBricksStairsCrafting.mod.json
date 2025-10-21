@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "stone_plus",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShaleBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShaleBricks"
+      },
+      {
+        "value": "CUSTOM:ShaleBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShaleBricks"
+      },
+      {
+        "value": "CUSTOM:ShaleBricks"
+      },
+      {
+        "value": "CUSTOM:ShaleBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShaleBricksStairs"
+    },
+    "name": "shale_bricks_stairs_crafting",
+    "namespace": "mod"
+  }
+}

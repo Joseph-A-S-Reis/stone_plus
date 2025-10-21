@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "stone_plus:block/scoria_top",
+    "bottom": "stone_plus:block/scoria_top",
+    "top": "stone_plus:block/scoria_top",
+    "side": "stone_plus:block/scoria_side"
+  },
+  "render_type": "solid"
+}

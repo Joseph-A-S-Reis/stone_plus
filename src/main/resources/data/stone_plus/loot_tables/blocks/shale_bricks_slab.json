@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "stone_plus:blocks/shale_bricks_slab",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "stone_plus:shale_bricks_slab",
+          "functions": [
+            {
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "stone_plus:shale_bricks_slab",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

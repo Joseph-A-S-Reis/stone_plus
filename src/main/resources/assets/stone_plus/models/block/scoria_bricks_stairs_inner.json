@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "stone_plus:block/scoria_bricks",
+    "bottom": "stone_plus:block/scoria_bricks",
+    "top": "stone_plus:block/scoria_bricks",
+    "side": "stone_plus:block/scoria_bricks"
+  },
+  "render_type": "solid"
+}

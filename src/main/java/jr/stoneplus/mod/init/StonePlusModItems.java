@@ -158,6 +158,40 @@ public class StonePlusModItems {
 	public static final RegistryObject<Item> CUT_SUNSTONE_STAIRS = block(StonePlusModBlocks.CUT_SUNSTONE_STAIRS);
 	public static final RegistryObject<Item> CUT_SUNSTONE_SLAB = block(StonePlusModBlocks.CUT_SUNSTONE_SLAB);
 	public static final RegistryObject<Item> CUT_SUNSTONE_WALL = block(StonePlusModBlocks.CUT_SUNSTONE_WALL);
+	public static final RegistryObject<Item> GABBRO_STAIRS = block(StonePlusModBlocks.GABBRO_STAIRS);
+	public static final RegistryObject<Item> GABBRO_SLAB = block(StonePlusModBlocks.GABBRO_SLAB);
+	public static final RegistryObject<Item> GABBRO_WALL = block(StonePlusModBlocks.GABBRO_WALL);
+	public static final RegistryObject<Item> BASANITE_STAIRS = block(StonePlusModBlocks.BASANITE_STAIRS);
+	public static final RegistryObject<Item> BASANITE_SLAB = block(StonePlusModBlocks.BASANITE_SLAB);
+	public static final RegistryObject<Item> BASANITE_WALL = block(StonePlusModBlocks.BASANITE_WALL);
+	public static final RegistryObject<Item> BASANITE_BRICKS_STAIRS = block(StonePlusModBlocks.BASANITE_BRICKS_STAIRS);
+	public static final RegistryObject<Item> BASANITE_BRICKS_SLAB = block(StonePlusModBlocks.BASANITE_BRICKS_SLAB);
+	public static final RegistryObject<Item> BASANITE_BRICKS_WALL = block(StonePlusModBlocks.BASANITE_BRICKS_WALL);
+	public static final RegistryObject<Item> LIMESTONE_STAIRS = block(StonePlusModBlocks.LIMESTONE_STAIRS);
+	public static final RegistryObject<Item> LIMESTONE_SLAB = block(StonePlusModBlocks.LIMESTONE_SLAB);
+	public static final RegistryObject<Item> LIMESTONE_WALL = block(StonePlusModBlocks.LIMESTONE_WALL);
+	public static final RegistryObject<Item> MARBLE_STAIRS = block(StonePlusModBlocks.MARBLE_STAIRS);
+	public static final RegistryObject<Item> MARBLE_SLAB = block(StonePlusModBlocks.MARBLE_SLAB);
+	public static final RegistryObject<Item> MARBLE_WALL = block(StonePlusModBlocks.MARBLE_WALL);
+	public static final RegistryObject<Item> QUARTZITE_STAIRS = block(StonePlusModBlocks.QUARTZITE_STAIRS);
+	public static final RegistryObject<Item> QUARTZITE_SLAB = block(StonePlusModBlocks.QUARTZITE_SLAB);
+	public static final RegistryObject<Item> QUARTZITE_WALL = block(StonePlusModBlocks.QUARTZITE_WALL);
+	public static final RegistryObject<Item> SCORIA_STAIRS = block(StonePlusModBlocks.SCORIA_STAIRS);
+	public static final RegistryObject<Item> SCORIA_SLAB = block(StonePlusModBlocks.SCORIA_SLAB);
+	public static final RegistryObject<Item> SCORIA_WALL = block(StonePlusModBlocks.SCORIA_WALL);
+	public static final RegistryObject<Item> SCORIA_BRICKS_STAIRS = block(StonePlusModBlocks.SCORIA_BRICKS_STAIRS);
+	public static final RegistryObject<Item> SCORIA_BRICKS_SLAB = block(StonePlusModBlocks.SCORIA_BRICKS_SLAB);
+	public static final RegistryObject<Item> SCORIA_BRICKS_WALL = block(StonePlusModBlocks.SCORIA_BRICKS_WALL);
+	public static final RegistryObject<Item> SHALE_STAIRS = block(StonePlusModBlocks.SHALE_STAIRS);
+	public static final RegistryObject<Item> SHALE_SLAB = block(StonePlusModBlocks.SHALE_SLAB);
+	public static final RegistryObject<Item> SHALE_WALL = block(StonePlusModBlocks.SHALE_WALL);
+	public static final RegistryObject<Item> COBBLED_SHALE_STAIRS = block(StonePlusModBlocks.COBBLED_SHALE_STAIRS);
+	public static final RegistryObject<Item> COBBLED_SHALE_SLAB = block(StonePlusModBlocks.COBBLED_SHALE_SLAB);
+	public static final RegistryObject<Item> COBBLED_SHALE_WALL = block(StonePlusModBlocks.COBBLED_SHALE_WALL);
+	public static final RegistryObject<Item> SHALE_BRICKS = block(StonePlusModBlocks.SHALE_BRICKS);
+	public static final RegistryObject<Item> SHALE_BRICKS_STAIRS = block(StonePlusModBlocks.SHALE_BRICKS_STAIRS);
+	public static final RegistryObject<Item> SHALE_BRICKS_SLAB = block(StonePlusModBlocks.SHALE_BRICKS_SLAB);
+	public static final RegistryObject<Item> SHALE_BRICKS_WALL = block(StonePlusModBlocks.SHALE_BRICKS_WALL);
 
 	// Start of user code block custom items
 	// End of user code block custom items
