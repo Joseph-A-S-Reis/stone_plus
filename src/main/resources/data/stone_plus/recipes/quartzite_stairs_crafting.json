@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone_plus",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "stone_plus:quartzite"
+    }
+  },
+  "result": {
+    "item": "stone_plus:quartzite_stairs",
+    "count": 6
+  }
+}

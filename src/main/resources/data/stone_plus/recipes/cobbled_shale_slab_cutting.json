@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "stone_plus",
+  "count": 2,
+  "ingredient": {
+    "item": "stone_plus:cobbled_shale"
+  },
+  "result": "stone_plus:cobbled_shale_slab"
+}

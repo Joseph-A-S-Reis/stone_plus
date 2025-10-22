@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "stone_plus:block/quartzite",
+    "particle": "stone_plus:block/quartzite"
+  },
+  "render_type": "solid"
+}
