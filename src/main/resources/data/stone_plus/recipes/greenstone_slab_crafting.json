@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone_plus",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "stone_plus:greenstone"
+    }
+  },
+  "result": {
+    "item": "stone_plus:greenstone_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stone_plus:block/greenstone_slab"
+    },
+    "type=top": {
+      "model": "stone_plus:block/greenstone_slab_top"
+    },
+    "type=double": {
+      "model": "stone_plus:block/greenstone_slab_full"
+    }
+  }
+}

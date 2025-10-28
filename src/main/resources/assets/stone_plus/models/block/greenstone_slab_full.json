@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "stone_plus:block/greenstone",
+    "bottom": "stone_plus:block/greenstone",
+    "top": "stone_plus:block/greenstone",
+    "side": "stone_plus:block/greenstone"
+  },
+  "render_type": "solid"
+}

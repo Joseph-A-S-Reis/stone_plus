@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "stone_plus:block/travertine_bottom",
+    "bottom": "stone_plus:block/travertine_bottom",
+    "top": "stone_plus:block/travertine_top",
+    "side": "stone_plus:block/travertine_side"
+  },
+  "render_type": "solid"
+}
